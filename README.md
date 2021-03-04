@@ -18,13 +18,13 @@ In order to run, clone this repo onto your local machine. <br/><br/>
 
 ## Features
 Implemented:
-* 
+* temp
 
 Work-in-Progress:
-* 
+* temp
 
 Future Features:
-* 
+* temp
 
 ## Status
 Project is: _in progress_
