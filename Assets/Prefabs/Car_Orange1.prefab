@@ -169,6 +169,7 @@ GameObject:
   - component: {fileID: 8623174954399795386}
   - component: {fileID: 3661742194892272482}
   - component: {fileID: 3661742194892272483}
+  - component: {fileID: 1032068143}
   m_Layer: 0
   m_Name: Car_Orange1
   m_TagString: Car
@@ -224,6 +225,24 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.9984457, y: 1.3250751, z: 4.0301657}
   m_Center: {x: -0.011609793, y: 0.6617608, z: 0.0058054924}
+--- !u!114 &1032068143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4751563920997448361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc068128cf56814daf568cf22a61ee7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movementSpeed: 6
+  xRange: 35
+  zTopRange: -4.5
+  zBottomRange: -26.9
+  playerRigidbody: {fileID: 0}
+  carPrefab: {fileID: 4751563920997448361}
 --- !u!1 &5112605379764218113
 GameObject:
   m_ObjectHideFlags: 0
