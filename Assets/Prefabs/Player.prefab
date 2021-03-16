@@ -911,8 +911,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 6
+  jumpForce: 3
   xRange: 12
-  zRange: 12.5
+  zTopRange: -4.5
+  zBottomRange: -12.5
+  gameOver: 0
 --- !u!1 &5090027058340486289
 GameObject:
   m_ObjectHideFlags: 0

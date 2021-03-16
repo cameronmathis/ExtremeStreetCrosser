@@ -9,19 +9,24 @@ public class RoadController : MonoBehaviour
     public GameObject roadPrefab;
 
     private Vector3 spawnPos = new Vector3(0.0f, 0.12f, 18.0f);
+    private PlayerController playerControllerScript;
     private GameObject playerGameObject;
 
     // Start is called before the first frame update
     void Start()
     {
+        playerControllerScript = GameObject.Find("Player").GetComponent<PlayerController>();
         playerGameObject = GameObject.Find("Player");
     }
 
     // Update is called once per frame
     void Update()
     {
-        move();
-        checkBounds();
+        if (!playerControllerScript.gameOver)
+        {
+            move();
+            checkBounds();
+        }
     }
 
     void move()

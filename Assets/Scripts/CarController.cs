@@ -10,21 +10,26 @@ public class CarController : MonoBehaviour
     public float zBottomRange = -26.9f;
     public GameObject carPrefab;
 
+    private PlayerController playerControllerScript;
     private GameObject playerGameObject;
 
     // Start is called before the first frame update
     void Start()
     {
+        playerControllerScript = GameObject.Find("Player").GetComponent<PlayerController>();
         playerGameObject = GameObject.Find("Player");
     }
 
     // Update is called once per frame
     void Update()
     {
-        move();
-        checkBounds();
+        if (!playerControllerScript.gameOver)
+        {
+            move();
+            checkBounds();
+        }
     }
-    
+
     void move()
     {
         float moveVertical = 0.0f;
