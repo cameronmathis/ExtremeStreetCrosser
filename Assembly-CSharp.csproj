@@ -65,10 +65,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CarController.cs" />
-    <Compile Include="Assets\Scripts\LeftSpawnPointController.cs" />
+    <Compile Include="Assets\Scripts\LeftSpawnManager.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\Scripts\RightSpawnPointController.cs" />
-    <Compile Include="Assets\Scripts\RoadController.cs" />
+    <Compile Include="Assets\Scripts\Repeater.cs" />
+    <Compile Include="Assets\Scripts\RightSpawnManager.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

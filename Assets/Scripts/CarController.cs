@@ -6,10 +6,10 @@ public class CarController : MonoBehaviour
 {
     public float movementSpeed = 6f;
     public float xRange = 35.0f;
-    public float zTopRange = -4.5f;
-    public float zBottomRange = -26.9f;
     public GameObject carPrefab;
 
+    private float zTopRange = -4.5f;
+    private float zBottomRange = -27.0f;
     private PlayerController playerControllerScript;
     private GameObject playerGameObject;
 

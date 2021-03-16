@@ -40,7 +40,7 @@ public class PlayerController : MonoBehaviour
         transform.rotation = Quaternion.LookRotation(movement);
 
         transform.Translate(movement * movementSpeed * Time.deltaTime, Space.World);
-        
+
         if (Input.GetKeyDown(KeyCode.Space) && isOnGround)
         {
             playerRigidBody.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
