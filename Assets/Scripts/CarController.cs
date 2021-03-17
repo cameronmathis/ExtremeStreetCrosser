@@ -5,7 +5,7 @@ using UnityEngine;
 public class CarController : MonoBehaviour
 {
     public float movementSpeed = 6f;
-    public float xRange = 35.0f;
+    public float xRange = 50.0f;
     public GameObject carPrefab;
 
     private float zTopRange = -4.5f;
