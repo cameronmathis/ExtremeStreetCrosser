@@ -1,6 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -13,12 +12,14 @@ public class PlayerController : MonoBehaviour
     public bool gameOver = false;
 
     private Rigidbody playerRigidBody;
+    private Animator playerAnimator;
     private bool isOnGround = true;
 
     // Start is called before the first frame update
     void Start()
     {
         playerRigidBody = GetComponent<Rigidbody>();
+        playerAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -42,12 +43,19 @@ public class PlayerController : MonoBehaviour
         transform.rotation = Quaternion.LookRotation(movement);
         // move player
         transform.Translate(movement * movementSpeed * Time.deltaTime, Space.World);
-
+        // change the animation
+        if (isOnGround)
+        {
+            bool walking = moveHorizontal != 0.0f || moveVertical != 0.0f;
+            playerAnimator.SetBool("IsWalking", walking);
+        }
         // check for jump input
         if (Input.GetKeyDown(KeyCode.Space) && isOnGround)
         {
             playerRigidBody.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             isOnGround = false;
+            // animate the jump
+            playerAnimator.SetBool("IsJumping", true);
         }
     }
 
@@ -86,6 +94,7 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("Road"))
         {
             isOnGround = true;
+            playerAnimator.SetBool("IsJumping", false);
         }
 
         if (collision.gameObject.CompareTag("Car"))
@@ -93,9 +102,16 @@ public class PlayerController : MonoBehaviour
             gameOver = true;
             Debug.Log("Game Over");
 
-            playerRigidBody.constraints = RigidbodyConstraints.FreezeAll;
-            playerRigidBody.freezeRotation = true;
-            transform.Rotate(90, 0, 0, Space.World);
+            // animate the death
+            playerAnimator.SetTrigger("DeathTrigger");
+            // wait 3 seconds before going to next scene
+            Invoke("nextScene", 3);
         }
+    }
+
+    // Load the GameOverScene
+    void nextScene()
+    {
+        SceneManager.LoadScene("GameOverScene");
     }
 }

@@ -71,6 +71,8 @@
     <Compile Include="Assets\Scripts\GameScene\Repeater.cs" />
     <Compile Include="Assets\Scripts\GameScene\RightSpawnManager.cs" />
     <Compile Include="Assets\Scripts\GameScene\ScoreManager.cs" />
+    <Compile Include="Assets\Scripts\GameScene\TimeManager.cs" />
+    <Compile Include="Assets\Scripts\InstructionsScene\InstructionsSceneController.cs" />
     <Compile Include="Assets\Scripts\StartScene\StartSceneController.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

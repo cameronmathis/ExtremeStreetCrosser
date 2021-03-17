@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Repeater : MonoBehaviour
 {
@@ -22,7 +20,7 @@ public class Repeater : MonoBehaviour
         playerControllerScript = GameObject.Find("Player").GetComponent<PlayerController>();
         playerGameObject = GameObject.Find("Player");
 
-        scoreManagerScript = GameObject.Find("ScoreManager").GetComponent<ScoreManager>();
+        scoreManagerScript = GameObject.Find("ScoreBoard").GetComponent<ScoreManager>();
     }
 
     // Update is called once per frame

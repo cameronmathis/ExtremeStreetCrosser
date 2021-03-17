@@ -19,18 +19,19 @@ In order to run, clone this repo onto your local machine. <br/><br/>
 ## Features
 Implemented:
 * Player Movement
-* Car Movement
 * Street Generation
-
-Work-in-Progress:
+* Car Movement
 * Randomly Spawning Cars
-
-Future Features:
-* Points
-* Pot Holes
-* Construction Cites
 * Death
 * Start Screen
+* Points
+
+Work-in-Progress:
+* Smooth Transition between Scenes
+
+Future Features:
+* Pot Holes
+* Construction Cites
 
 ## Status
 Project is: _in progress_
