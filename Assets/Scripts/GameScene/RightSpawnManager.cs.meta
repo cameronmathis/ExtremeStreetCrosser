@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7221453e805aa0c48ad77c8938ca1740
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnPointPrefab: {fileID: 6627961268949645951, guid: 82eef5148f4940c49aafa543774a3fb3,
+      type: 3}
+  - carPrefab: {fileID: 5438553815952070378, guid: b3b18564a757b254ba54b0fb12833146,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
