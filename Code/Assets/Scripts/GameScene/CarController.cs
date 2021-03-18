@@ -7,7 +7,7 @@ public class CarController : MonoBehaviour
     public GameObject carPrefab;
 
     private float zTopRange = -4.5f;
-    private float zBottomRange = -27.0f;
+    private float zBottomRange = -18.0f;
 
     private PlayerController playerControllerScript;
     private GameObject playerGameObject;

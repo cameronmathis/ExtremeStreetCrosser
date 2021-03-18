@@ -65,10 +65,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\GameOverScene\GameOverSceneController.cs" />
+    <Compile Include="Assets\Scripts\GameScene\BlockRepeater.cs" />
     <Compile Include="Assets\Scripts\GameScene\CarController.cs" />
     <Compile Include="Assets\Scripts\GameScene\LeftSpawnManager.cs" />
     <Compile Include="Assets\Scripts\GameScene\PlayerController.cs" />
-    <Compile Include="Assets\Scripts\GameScene\Repeater.cs" />
     <Compile Include="Assets\Scripts\GameScene\RightSpawnManager.cs" />
     <Compile Include="Assets\Scripts\GameScene\SceneFadeController.cs" />
     <Compile Include="Assets\Scripts\GameScene\ScoreManager.cs" />
