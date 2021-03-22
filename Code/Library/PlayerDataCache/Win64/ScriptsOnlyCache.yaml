@@ -87,7 +87,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13076}
     - Class: 114
-      Script: {instanceID: 13424}
+      Script: {instanceID: 13428}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -174,7 +174,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13076}
     - Class: 114
-      Script: {instanceID: 13424}
+      Script: {instanceID: 13428}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -245,7 +245,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13076}
     - Class: 114
-      Script: {instanceID: 13424}
+      Script: {instanceID: 13428}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -310,7 +310,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13076}
     - Class: 114
-      Script: {instanceID: 13424}
+      Script: {instanceID: 13428}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -826,5 +826,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/InstructionsScene.unity
   - Assets/Scenes/GameScene.unity
   - Assets/Scenes/GameOverScene.unity
-  playerPath: C:/Users/Cameron/Documents/College/Spring 2021/Game Design and Development/Projects/ExtremeStreetCrosser/Builds/1.1.0
+  playerPath: C:/Users/Cameron/Documents/College/Spring 2021/Game Design and Development/Projects/ExtremeStreetCrosser/Builds/1.1.1
     Alpha/Extreme Street Crosser.exe

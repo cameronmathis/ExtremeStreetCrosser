@@ -11,10 +11,10 @@ A Frogger-like Unity Application that allows children to practice safe street cr
 * [Developers](#developers)
 
 ## General info
-This is a project I collaborated on for my Game Design and Development class.
+This is a project I collaborated on for my Game Design and Development class. It is built for Windows x86 and x64 platforms.
 
 ## Setup
-In order to play Extreme Street Crosser, clone this repo onto your local machine. Open the folder titled "Builds" then open the folder of the build you want to run. Once the specific build folder is open, double click the "Extreme Street Crosser" application file to begin playing. <br/>
+In order to play Extreme Street Crosser, clone this repo onto your local machine. To play the latest version, open the folder titled "LatestBuild" then double click the "Extreme Street Crosser" application file to begin playing. To play another version, open the foler titles "AllBuilds" and then open the folder of the build you want to run. Once the specific build folder is open, double click the "Extreme Street Crosser" application file to begin playing. <br/>
 
 ## Features
 Implemented:
@@ -35,7 +35,7 @@ Future Features:
 * Construction Cites
 
 ## Status
-Version: 1.1.0 Alpha</br>
+Version: 1.1.1 Alpha</br>
 Project is: _in progress_
 
 ## Language details
