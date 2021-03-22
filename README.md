@@ -35,7 +35,7 @@ Future Features:
 * Construction Cites
 
 ## Status
-Version: 1.0.0 Alpha</br>
+Version: 1.1.0 Alpha</br>
 Project is: _in progress_
 
 ## Language details

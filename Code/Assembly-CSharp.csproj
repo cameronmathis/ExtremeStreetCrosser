@@ -66,13 +66,13 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\GameOverScene\GameOverSceneController.cs" />
     <Compile Include="Assets\Scripts\GameScene\BlockRepeater.cs" />
-    <Compile Include="Assets\Scripts\GameScene\CarController.cs" />
-    <Compile Include="Assets\Scripts\GameScene\LeftSpawnManager.cs" />
+    <Compile Include="Assets\Scripts\GameScene\LeftVehicleSpawnManager.cs" />
     <Compile Include="Assets\Scripts\GameScene\PlayerController.cs" />
-    <Compile Include="Assets\Scripts\GameScene\RightSpawnManager.cs" />
+    <Compile Include="Assets\Scripts\GameScene\RightVehicleSpawnManager.cs" />
     <Compile Include="Assets\Scripts\GameScene\SceneFadeController.cs" />
     <Compile Include="Assets\Scripts\GameScene\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\GameScene\TimeManager.cs" />
+    <Compile Include="Assets\Scripts\GameScene\VehicleController.cs" />
     <Compile Include="Assets\Scripts\InstructionsScene\InstructionsSceneController.cs" />
     <Compile Include="Assets\Scripts\StartScene\StartSceneController.cs" />
     <Reference Include="UnityEngine">

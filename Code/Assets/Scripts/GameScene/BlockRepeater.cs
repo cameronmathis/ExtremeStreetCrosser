@@ -2,11 +2,15 @@
 
 public class BlockRepeater : MonoBehaviour
 {
-    public float movementSpeed = 6.0f;
     public GameObject blockPrefab;
+    public bool hasProducedDuplicate = false;
+
+    private float movementSpeed;
 
     private float zTopRange = -4.5f;
     private float zBottomRange = -18.0f;
+    private float duplicatePoint = 18.0f;
+
     private Vector3 spawnPos = new Vector3(0.0f, 0.0f, 27.0f);
 
     private PlayerController playerControllerScript;
@@ -18,6 +22,7 @@ public class BlockRepeater : MonoBehaviour
     void Start()
     {
         playerControllerScript = GameObject.Find("Player").GetComponent<PlayerController>();
+        movementSpeed = playerControllerScript.movementSpeed;
         playerGameObject = GameObject.Find("Player");
 
         scoreManagerScript = GameObject.Find("ScoreBoard").GetComponent<ScoreManager>();
@@ -28,6 +33,7 @@ public class BlockRepeater : MonoBehaviour
     {
         if (!playerControllerScript.gameOver)
         {
+            movementSpeed = playerControllerScript.movementSpeed;
             move();
             checkBounds();
         }
@@ -49,13 +55,19 @@ public class BlockRepeater : MonoBehaviour
     {
         if (transform.position.z < zBottomRange)
         {
-            // spawn new block
-            GameObject blockInstance = (GameObject) Instantiate(blockPrefab, spawnPos, blockPrefab.transform.rotation);
-            blockInstance.name = "Block";
             // update score
             scoreManagerScript.score++;
             // destroy old block
             Destroy(gameObject);
+        }
+
+        if (transform.position.z < duplicatePoint && !hasProducedDuplicate)
+        {
+            // spawn new block
+            GameObject blockInstance = (GameObject)Instantiate(blockPrefab, spawnPos, blockPrefab.transform.rotation);
+            blockInstance.name = "Block";
+
+            hasProducedDuplicate = true;
         }
     }
 }

@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Car
   - Road
+  - Vehicle
   layers:
   - Default
   - TransparentFX
