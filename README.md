@@ -27,12 +27,12 @@ Implemented:
 * Points
 
 Work-in-Progress:
-* Smooth Transition between Start and Instruction Scenes
+* Music/Audio
 
 Future Features:
-* Music/Audio
 * Pot Holes
 * Construction Cites
+* Smooth Transition between Start and Instruction Scenes
 
 ## Status
 Version: 1.1.1 Alpha</br>

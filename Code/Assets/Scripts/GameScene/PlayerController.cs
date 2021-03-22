@@ -19,11 +19,21 @@ public class PlayerController : MonoBehaviour
     private Rigidbody playerRigidBody;
     private Animator playerAnimator;
 
+    private AudioSource playerAudio;
+    private AudioSource gameAudio;
+    private float audioVolume = 0.5f;
+    public AudioClip jumpSound;
+    public AudioClip crossWalkSound;
+    public AudioClip gameOverSound;
+
     // Start is called before the first frame update
     void Start()
     {
         playerRigidBody = GetComponent<Rigidbody>();
         playerAnimator = GetComponent<Animator>();
+
+        playerAudio = GetComponent<AudioSource>();
+        gameAudio = GameObject.Find("Main Camera").GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -48,8 +58,10 @@ public class PlayerController : MonoBehaviour
         // check for jump input
         if (Input.GetKeyDown(KeyCode.Space) && isOnGround)
         {
+            // update movement speed
             movementSpeed = 8.0f;
-
+            // play jump sound
+            playerAudio.PlayOneShot(jumpSound, 1.0f);
             // move the player
             movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
             transform.Translate(movement * movementSpeed * Time.deltaTime, Space.World);
@@ -125,9 +137,12 @@ public class PlayerController : MonoBehaviour
         {
             gameOver = true;
             Debug.Log("Game Over");
-
             // animate the death
             playerAnimator.SetTrigger("DeathTrigger");
+            // play game over sound
+            playerAudio.PlayOneShot(gameOverSound, 1.0f);
+            // stop the game music
+            gameAudio.Stop();
             // wait 2 seconds before going to next scene
             Invoke("nextScene", 2);
         }

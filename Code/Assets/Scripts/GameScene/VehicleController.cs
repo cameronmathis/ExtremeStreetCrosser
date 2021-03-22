@@ -30,7 +30,7 @@ public class VehicleController : MonoBehaviour
         }
     }
 
-    // Make the car move
+    // Make the vehicle move
     void move()
     {
         float moveVertical = 0.0f;
@@ -42,7 +42,7 @@ public class VehicleController : MonoBehaviour
         transform.Translate(movement * movementSpeed * Time.deltaTime, Space.World);
     }
 
-    // Delete the car once it is off screen
+    // Delete the vehicle once it is off screen
     void checkBounds()
     {
         // check left bound

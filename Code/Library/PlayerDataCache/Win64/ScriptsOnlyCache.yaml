@@ -86,8 +86,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12718}
     - Class: 114
       Script: {instanceID: 13076}
-    - Class: 114
-      Script: {instanceID: 13428}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -133,6 +131,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 90
@@ -173,8 +175,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13008}
     - Class: 114
       Script: {instanceID: 13076}
-    - Class: 114
-      Script: {instanceID: 13428}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -244,8 +244,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12718}
     - Class: 114
       Script: {instanceID: 13076}
-    - Class: 114
-      Script: {instanceID: 13428}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -289,6 +287,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
@@ -309,8 +309,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12718}
     - Class: 114
       Script: {instanceID: 13076}
-    - Class: 114
-      Script: {instanceID: 13428}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -438,7 +436,7 @@ ScriptsOnlyBuild:
     className: GridLayoutGroup
   - hash:
       serializedVersion: 2
-      Hash: c91066f9e6a79a6398190a7cc4ca4fe1
+      Hash: 6f47e2cb0ace2e6d3dae64aeb6aa5b5a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerController
@@ -826,5 +824,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/InstructionsScene.unity
   - Assets/Scenes/GameScene.unity
   - Assets/Scenes/GameOverScene.unity
-  playerPath: C:/Users/Cameron/Documents/College/Spring 2021/Game Design and Development/Projects/ExtremeStreetCrosser/Builds/1.1.1
+  playerPath: C:/Users/Cameron/Documents/College/Spring 2021/Game Design and Development/Projects/ExtremeStreetCrosser/AllBuilds/1.2.0
     Alpha/Extreme Street Crosser.exe

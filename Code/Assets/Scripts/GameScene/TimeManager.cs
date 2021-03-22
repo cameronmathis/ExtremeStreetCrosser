@@ -43,7 +43,7 @@ public class TimeManager : MonoBehaviour
     string getTime()
     {
         seconds += Time.deltaTime;
-        int secs = (int)seconds;
+        int secs = (int)seconds;  
         if (secs >= 60)
         {
             minutes++;
