@@ -38,6 +38,7 @@ Work-in-Progress:
 * Music/Audio
 
 Future Features:
+* Cross Walks
 * Pot Holes
 * Construction Cites
 * Smooth Transition between Start and Instruction Scenes
