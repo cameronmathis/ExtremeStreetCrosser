@@ -6,6 +6,8 @@ A Frogger-like Unity Application that allows children to practice safe street cr
 [![license:MIT](https://img.shields.io/github/license/cameronmathis/ExtremeStreetCrosser)](LICENSE)
 [![build:Passing](https://img.shields.io/badge/build-Passing-brightgreen)](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/LatestBuild)
 
+### [Download Installer](https://github.com/cameronmathis/ExtremeStreetCrosser/blob/main/ExtremeStreetCrosserInstaller.exe)
+
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
@@ -18,7 +20,8 @@ A Frogger-like Unity Application that allows children to practice safe street cr
 This is a project I collaborated on for my Game Design and Development class. It is built for Windows x86 and x64 platforms. Feel free to pull the projcet down and tinker around with it!
 
 ## Setup
-The first step in order to play Extreme Street Crosser is to clone this repo onto your local machine. From there, the easiest way to begin playing is to double click the "ExtremeStreetCrosserInstaller" [application](https://github.com/cameronmathis/ExtremeStreetCrosser/blob/main/ExtremeStreetCrosserInstaller.exe). Another way to play the latest version is to open the "LatestBuild" [folder](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/LatestBuild) then double click the "Extreme Street Crosser" application file to begin playing. To play another version, open the "AllBuilds" [folder](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/AllBuilds) and then open the folder of the build you want to run. Once the specific build folder is open, double click the "Extreme Street Crosser" application file to begin playing. <br/>
+The easiest way to begin playing Extreme Streem Crosser is to download and use the "ExtremeStreetCrosserInstaller" [application](https://github.com/cameronmathis/ExtremeStreetCrosser/blob/main/ExtremeStreetCrosserInstaller.exe). Another way to play the latest version is to clone this repo onto your local machine. </br>
+From there, open the "LatestBuild" [folder](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/LatestBuild) then double click the "Extreme Street Crosser" application file to begin playing. To play another version, open the "AllBuilds" [folder](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/AllBuilds) and then open the folder of the build you want to run. Once the specific build folder is open, double click the "Extreme Street Crosser" application file to begin playing. <br/>
 
 ## Features
 Implemented:
