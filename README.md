@@ -3,6 +3,7 @@ A Frogger-like Unity Application that allows children to practice safe street cr
 
 [![platform](https://img.shields.io/badge/platform-Windows-lightgrey)](https://www.microsoft.com/en-us/store/b/windows?activetab=tab%3ashopwindows10)
 [![release](https://img.shields.io/github/v/release/cameronmathis/ExtremeStreetCrosser)](https://github.com/cameronmathis/ExtremeStreetCrosser/releases/tag/v1.2.0A)
+[![license](https://img.shields.io/github/license/cameronmathis/ExtremeStreetCrosser)](LICENSE)
 [![build:status](https://img.shields.io/badge/build-Passing-brightgreen)](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/LatestBuild)
 
 ### [Download Installer](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/main/ExtremeStreetCrosserInstaller.exe)
