@@ -11,4 +11,4 @@
 
 ## Reporting a Vulnerability
 
-If you find a security vulnerability, please report it under the [Issues](https://github.com/cameronmathis/ExtremeStreetCrosser/issues) tab of this repository.
+If you find a security vulnerability, please report it under the [Issues](https://github.com/cameronmathis/ExtremeStreetCrosser/issues) tab of this repository and flag it as "security issue".
