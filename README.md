@@ -36,7 +36,7 @@ Future Features:
 * Smooth Transition between Start and Instruction Scenes
 
 ## Status
-Version: 1.1.1 Alpha</br>
+Version: 1.2.0 Alpha</br>
 Project is: _in progress_
 
 ## Language details
