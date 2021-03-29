@@ -1,0 +1,1122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-03-29T18:13:55.418-05:00
+  initializedAtString: 2021-03-29T18:11:33.380-05:00
+  entries:
+  - path: Code\Assets\_AssetsFromStore.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\_AssetsFromStore.meta
+    projectPath: Assets\_AssetsFromStore.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Assets\Plugins.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ArtifactDB
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ArtifactDB-lock
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ArtifactDB-lock
+    projectPath: Library\ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\Artifacts\03\03b7a8845ae4b1b50d07ee4445fa0ec5
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\03\03b7a8845ae4b1b50d07ee4445fa0ec5
+    projectPath: Library\Artifacts\03\03b7a8845ae4b1b50d07ee4445fa0ec5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\05\05d6e5ecdb19f7c06c4ce8145481c3a2
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\05\05d6e5ecdb19f7c06c4ce8145481c3a2
+    projectPath: Library\Artifacts\05\05d6e5ecdb19f7c06c4ce8145481c3a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\06\0609e3fbbc8744c6f97b49e24abad467
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\06\0609e3fbbc8744c6f97b49e24abad467
+    projectPath: Library\Artifacts\06\0609e3fbbc8744c6f97b49e24abad467
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\07\074dd0d832fdeec94d0e2edabee11b39
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\07\074dd0d832fdeec94d0e2edabee11b39
+    projectPath: Library\Artifacts\07\074dd0d832fdeec94d0e2edabee11b39
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\0a\0ad53911535d3eb0092d6fa5d1de0583
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\0a\0ad53911535d3eb0092d6fa5d1de0583
+    projectPath: Library\Artifacts\0a\0ad53911535d3eb0092d6fa5d1de0583
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\0c\0c5645145de0577e8e9d327ac763e225
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\0c\0c5645145de0577e8e9d327ac763e225
+    projectPath: Library\Artifacts\0c\0c5645145de0577e8e9d327ac763e225
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\0c\0c56ceb65c0fa3faeb6779e08b793aac
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\0c\0c56ceb65c0fa3faeb6779e08b793aac
+    projectPath: Library\Artifacts\0c\0c56ceb65c0fa3faeb6779e08b793aac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\10\10bd1ca07465b0cc824d5ced6328b56e
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\10\10bd1ca07465b0cc824d5ced6328b56e
+    projectPath: Library\Artifacts\10\10bd1ca07465b0cc824d5ced6328b56e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\11\1104eaa1eb37db883e47216a7d0ca8f4
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\11\1104eaa1eb37db883e47216a7d0ca8f4
+    projectPath: Library\Artifacts\11\1104eaa1eb37db883e47216a7d0ca8f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\14\14fc255a8c6366b1092fd9cb934704d4
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\14\14fc255a8c6366b1092fd9cb934704d4
+    projectPath: Library\Artifacts\14\14fc255a8c6366b1092fd9cb934704d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\15\15facdc2cdd9e19d1d81cf9910288d8d
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\15\15facdc2cdd9e19d1d81cf9910288d8d
+    projectPath: Library\Artifacts\15\15facdc2cdd9e19d1d81cf9910288d8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\16\1655c6b190db63e52be81fe12706b7f0
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\16\1655c6b190db63e52be81fe12706b7f0
+    projectPath: Library\Artifacts\16\1655c6b190db63e52be81fe12706b7f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\17\1766d60e7e4e72ef9cd1021652f37b13
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\17\1766d60e7e4e72ef9cd1021652f37b13
+    projectPath: Library\Artifacts\17\1766d60e7e4e72ef9cd1021652f37b13
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\17\17c43815899ec986ff75f279a74eff83
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\17\17c43815899ec986ff75f279a74eff83
+    projectPath: Library\Artifacts\17\17c43815899ec986ff75f279a74eff83
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\18\1827e2815961e90309e5bba78df27f52
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\18\1827e2815961e90309e5bba78df27f52
+    projectPath: Library\Artifacts\18\1827e2815961e90309e5bba78df27f52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\18\1869e78b4318d67e59a464b0e129cc04
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\18\1869e78b4318d67e59a464b0e129cc04
+    projectPath: Library\Artifacts\18\1869e78b4318d67e59a464b0e129cc04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\1a\1aa5c06b5e35db1577cdff38606c04bb
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\1a\1aa5c06b5e35db1577cdff38606c04bb
+    projectPath: Library\Artifacts\1a\1aa5c06b5e35db1577cdff38606c04bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\1e\1e8d469a9726160f9b620fed35871ef2
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\1e\1e8d469a9726160f9b620fed35871ef2
+    projectPath: Library\Artifacts\1e\1e8d469a9726160f9b620fed35871ef2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\21\21ff56c7a5ea6685bba57b1518c87e1f
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\21\21ff56c7a5ea6685bba57b1518c87e1f
+    projectPath: Library\Artifacts\21\21ff56c7a5ea6685bba57b1518c87e1f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\24\24ae4643cd5505087e45f0029228073b
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\24\24ae4643cd5505087e45f0029228073b
+    projectPath: Library\Artifacts\24\24ae4643cd5505087e45f0029228073b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\25\253cc964e46bd40650eed030a04a15f3
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\25\253cc964e46bd40650eed030a04a15f3
+    projectPath: Library\Artifacts\25\253cc964e46bd40650eed030a04a15f3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\32\32f303bc7a29f7c8db4dd8f06895e00d
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\32\32f303bc7a29f7c8db4dd8f06895e00d
+    projectPath: Library\Artifacts\32\32f303bc7a29f7c8db4dd8f06895e00d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\36\361afe555691fc123feddd87d1540e0a
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\36\361afe555691fc123feddd87d1540e0a
+    projectPath: Library\Artifacts\36\361afe555691fc123feddd87d1540e0a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\36\365055a6a9a6354ddb2c62fdc17b1bbe
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\36\365055a6a9a6354ddb2c62fdc17b1bbe
+    projectPath: Library\Artifacts\36\365055a6a9a6354ddb2c62fdc17b1bbe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\3a\3a2d5a02a26863e58cfa195a9252297a
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\3a\3a2d5a02a26863e58cfa195a9252297a
+    projectPath: Library\Artifacts\3a\3a2d5a02a26863e58cfa195a9252297a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\45\450215e0d8f0a70beba8214132ab3ec0
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\45\450215e0d8f0a70beba8214132ab3ec0
+    projectPath: Library\Artifacts\45\450215e0d8f0a70beba8214132ab3ec0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\4a\4a4f2df07b5c750d85d07c012e6a1cbd
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\4a\4a4f2df07b5c750d85d07c012e6a1cbd
+    projectPath: Library\Artifacts\4a\4a4f2df07b5c750d85d07c012e6a1cbd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\4b\4bf07c471499eb7438d9e35275944435
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\4b\4bf07c471499eb7438d9e35275944435
+    projectPath: Library\Artifacts\4b\4bf07c471499eb7438d9e35275944435
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\4d\4d42753f40185c022983de249a4e8003
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\4d\4d42753f40185c022983de249a4e8003
+    projectPath: Library\Artifacts\4d\4d42753f40185c022983de249a4e8003
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\57\5746844c671af0a6089ca2aab64c12a1
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\57\5746844c671af0a6089ca2aab64c12a1
+    projectPath: Library\Artifacts\57\5746844c671af0a6089ca2aab64c12a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\58\58c46811168e59223ec612cb9a7f2618
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\58\58c46811168e59223ec612cb9a7f2618
+    projectPath: Library\Artifacts\58\58c46811168e59223ec612cb9a7f2618
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\59\59bf1ada34b656eb01ef950081877609
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\59\59bf1ada34b656eb01ef950081877609
+    projectPath: Library\Artifacts\59\59bf1ada34b656eb01ef950081877609
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\5a\5a1e4d912f5e3b7c83d9d994547a80d1
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\5a\5a1e4d912f5e3b7c83d9d994547a80d1
+    projectPath: Library\Artifacts\5a\5a1e4d912f5e3b7c83d9d994547a80d1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\5a\5a41859072f1e941647a3a3f60ceaf22
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\5a\5a41859072f1e941647a3a3f60ceaf22
+    projectPath: Library\Artifacts\5a\5a41859072f1e941647a3a3f60ceaf22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\65\65bea84052e7b48d5795fb454fcd727a
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\65\65bea84052e7b48d5795fb454fcd727a
+    projectPath: Library\Artifacts\65\65bea84052e7b48d5795fb454fcd727a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\67\677979571028bac2987c7af6e53c5e5c
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\67\677979571028bac2987c7af6e53c5e5c
+    projectPath: Library\Artifacts\67\677979571028bac2987c7af6e53c5e5c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\69\696d9fa1ac1c6d3ab2537398db685c9b
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\69\696d9fa1ac1c6d3ab2537398db685c9b
+    projectPath: Library\Artifacts\69\696d9fa1ac1c6d3ab2537398db685c9b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\6a\6a8dacea5c4254e4b32f7596c737aafd
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\6a\6a8dacea5c4254e4b32f7596c737aafd
+    projectPath: Library\Artifacts\6a\6a8dacea5c4254e4b32f7596c737aafd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\6f\6fd67d07c8cb09ffc6c5bb9860468aea
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\6f\6fd67d07c8cb09ffc6c5bb9860468aea
+    projectPath: Library\Artifacts\6f\6fd67d07c8cb09ffc6c5bb9860468aea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\73\73482090fb7f69b7c560639fb0b34ac0
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\73\73482090fb7f69b7c560639fb0b34ac0
+    projectPath: Library\Artifacts\73\73482090fb7f69b7c560639fb0b34ac0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\73\73a6543311fa0a3c351a19ef147f7ffa
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\73\73a6543311fa0a3c351a19ef147f7ffa
+    projectPath: Library\Artifacts\73\73a6543311fa0a3c351a19ef147f7ffa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\75\7588e417c9ed540d8b06f88934b5013e
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\75\7588e417c9ed540d8b06f88934b5013e
+    projectPath: Library\Artifacts\75\7588e417c9ed540d8b06f88934b5013e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\79\79596a4db5d5e65ada713cfa639ede28
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\79\79596a4db5d5e65ada713cfa639ede28
+    projectPath: Library\Artifacts\79\79596a4db5d5e65ada713cfa639ede28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\7a\7af6f356fbf810d5b8096adc7097cf1c
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\7a\7af6f356fbf810d5b8096adc7097cf1c
+    projectPath: Library\Artifacts\7a\7af6f356fbf810d5b8096adc7097cf1c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\7c\7c36c7f94b22d6e5cae4e0c7e406e922
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\7c\7c36c7f94b22d6e5cae4e0c7e406e922
+    projectPath: Library\Artifacts\7c\7c36c7f94b22d6e5cae4e0c7e406e922
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\7e\7e79c1f973c3a059fbb127ea6ba58eb2
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\7e\7e79c1f973c3a059fbb127ea6ba58eb2
+    projectPath: Library\Artifacts\7e\7e79c1f973c3a059fbb127ea6ba58eb2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\80\800edfcd47f1b4fe3cfe0f1fd8131bdd
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\80\800edfcd47f1b4fe3cfe0f1fd8131bdd
+    projectPath: Library\Artifacts\80\800edfcd47f1b4fe3cfe0f1fd8131bdd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\80\805e622adf0f579856165cdde8fbd3bc
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\80\805e622adf0f579856165cdde8fbd3bc
+    projectPath: Library\Artifacts\80\805e622adf0f579856165cdde8fbd3bc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\80\80a108ce031693c691fed65f2770d64e
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\80\80a108ce031693c691fed65f2770d64e
+    projectPath: Library\Artifacts\80\80a108ce031693c691fed65f2770d64e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\81\81c1a15a14b804d666df9044acaf8f79
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\81\81c1a15a14b804d666df9044acaf8f79
+    projectPath: Library\Artifacts\81\81c1a15a14b804d666df9044acaf8f79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\82\823f2a985ca725441541e13edd0f15c2
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\82\823f2a985ca725441541e13edd0f15c2
+    projectPath: Library\Artifacts\82\823f2a985ca725441541e13edd0f15c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\83\8392cc2ac83e872f1d99405bca0db95a
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\83\8392cc2ac83e872f1d99405bca0db95a
+    projectPath: Library\Artifacts\83\8392cc2ac83e872f1d99405bca0db95a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\86\868f57e9b419444624e7c20dd860ba5a
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\86\868f57e9b419444624e7c20dd860ba5a
+    projectPath: Library\Artifacts\86\868f57e9b419444624e7c20dd860ba5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\87\870f96f0f824c4cb76e2829f8ad569d1
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\87\870f96f0f824c4cb76e2829f8ad569d1
+    projectPath: Library\Artifacts\87\870f96f0f824c4cb76e2829f8ad569d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\89\89c2e95d23242d5181a72b57fc48a47c
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\89\89c2e95d23242d5181a72b57fc48a47c
+    projectPath: Library\Artifacts\89\89c2e95d23242d5181a72b57fc48a47c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\8a\8a263f8323fbb77bbc2cb93d7ed1bccb
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\8a\8a263f8323fbb77bbc2cb93d7ed1bccb
+    projectPath: Library\Artifacts\8a\8a263f8323fbb77bbc2cb93d7ed1bccb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\8d\8de24e05cf3b83d69800888fd6e08932
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\8d\8de24e05cf3b83d69800888fd6e08932
+    projectPath: Library\Artifacts\8d\8de24e05cf3b83d69800888fd6e08932
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\8d\8df327a47273b51e3e48df948e46a7c8
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\8d\8df327a47273b51e3e48df948e46a7c8
+    projectPath: Library\Artifacts\8d\8df327a47273b51e3e48df948e46a7c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\8f\8fe0c0c48b923a6ea097c9ce7e9387d1
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\8f\8fe0c0c48b923a6ea097c9ce7e9387d1
+    projectPath: Library\Artifacts\8f\8fe0c0c48b923a6ea097c9ce7e9387d1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\90\90244b921d86e2101ddbefb9c8d170ef
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\90\90244b921d86e2101ddbefb9c8d170ef
+    projectPath: Library\Artifacts\90\90244b921d86e2101ddbefb9c8d170ef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\91\917379c06488c08f4b1d96953dd9cb76
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\91\917379c06488c08f4b1d96953dd9cb76
+    projectPath: Library\Artifacts\91\917379c06488c08f4b1d96953dd9cb76
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\91\91740ce3a9b6f6ba963233de7e9822ec
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\91\91740ce3a9b6f6ba963233de7e9822ec
+    projectPath: Library\Artifacts\91\91740ce3a9b6f6ba963233de7e9822ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\91\91b39fa3819682aab81b928251a9605a
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\91\91b39fa3819682aab81b928251a9605a
+    projectPath: Library\Artifacts\91\91b39fa3819682aab81b928251a9605a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\91\91d193d744b107db6da0fc1010d326ce
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\91\91d193d744b107db6da0fc1010d326ce
+    projectPath: Library\Artifacts\91\91d193d744b107db6da0fc1010d326ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\96\96fdb9343caa235308c06d3178efc7de
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\96\96fdb9343caa235308c06d3178efc7de
+    projectPath: Library\Artifacts\96\96fdb9343caa235308c06d3178efc7de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\9a\9a0599f41ffccb755038fb80ea1de059
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\9a\9a0599f41ffccb755038fb80ea1de059
+    projectPath: Library\Artifacts\9a\9a0599f41ffccb755038fb80ea1de059
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\9a\9aaee076495e7788024f8bc62bbe92c1
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\9a\9aaee076495e7788024f8bc62bbe92c1
+    projectPath: Library\Artifacts\9a\9aaee076495e7788024f8bc62bbe92c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\9e\9e461bd7948e69cd80bfc010bacbbb1f
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\9e\9e461bd7948e69cd80bfc010bacbbb1f
+    projectPath: Library\Artifacts\9e\9e461bd7948e69cd80bfc010bacbbb1f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\a2\a2abba7f20e6797c96d53e8b86b74380
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\a2\a2abba7f20e6797c96d53e8b86b74380
+    projectPath: Library\Artifacts\a2\a2abba7f20e6797c96d53e8b86b74380
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\a5\a5bef0069f6fdcd0b73b2a32208fd90d
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\a5\a5bef0069f6fdcd0b73b2a32208fd90d
+    projectPath: Library\Artifacts\a5\a5bef0069f6fdcd0b73b2a32208fd90d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\a5\a5c7d6906b4617042e6423f892e35229
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\a5\a5c7d6906b4617042e6423f892e35229
+    projectPath: Library\Artifacts\a5\a5c7d6906b4617042e6423f892e35229
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\b0\b0907e4eba278f15d6291a6db5bb00af
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\b0\b0907e4eba278f15d6291a6db5bb00af
+    projectPath: Library\Artifacts\b0\b0907e4eba278f15d6291a6db5bb00af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\b0\b0b1c8ff625e10fc4b653f10fc4f91a5
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\b0\b0b1c8ff625e10fc4b653f10fc4f91a5
+    projectPath: Library\Artifacts\b0\b0b1c8ff625e10fc4b653f10fc4f91a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\b2\b222470376285b0acbb73e6e7f50cc70
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\b2\b222470376285b0acbb73e6e7f50cc70
+    projectPath: Library\Artifacts\b2\b222470376285b0acbb73e6e7f50cc70
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\b3\b3acbbe670b2d6e8329a7dc914550194
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\b3\b3acbbe670b2d6e8329a7dc914550194
+    projectPath: Library\Artifacts\b3\b3acbbe670b2d6e8329a7dc914550194
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\b7\b714f1e5e3a8c035a6b7504f5a32eef2
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\b7\b714f1e5e3a8c035a6b7504f5a32eef2
+    projectPath: Library\Artifacts\b7\b714f1e5e3a8c035a6b7504f5a32eef2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\bb\bbd9f180c8a76a95e561cdad227c8217
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\bb\bbd9f180c8a76a95e561cdad227c8217
+    projectPath: Library\Artifacts\bb\bbd9f180c8a76a95e561cdad227c8217
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\be\be8344947ec6c9d7d3b6238d448ac448
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\be\be8344947ec6c9d7d3b6238d448ac448
+    projectPath: Library\Artifacts\be\be8344947ec6c9d7d3b6238d448ac448
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\bf\bfd007326a5aa52ef5a5366dbdcdc830
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\bf\bfd007326a5aa52ef5a5366dbdcdc830
+    projectPath: Library\Artifacts\bf\bfd007326a5aa52ef5a5366dbdcdc830
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\c0\c0f6bb1b5183b154bd49e1261ee6868e
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\c0\c0f6bb1b5183b154bd49e1261ee6868e
+    projectPath: Library\Artifacts\c0\c0f6bb1b5183b154bd49e1261ee6868e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\c6\c6df1eaaa51360f3238115022b1aa889
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\c6\c6df1eaaa51360f3238115022b1aa889
+    projectPath: Library\Artifacts\c6\c6df1eaaa51360f3238115022b1aa889
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\c8\c8b0c77f62d83fe1600d831df01a22cc
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\c8\c8b0c77f62d83fe1600d831df01a22cc
+    projectPath: Library\Artifacts\c8\c8b0c77f62d83fe1600d831df01a22cc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\cf\cf4dcbd2836b1409f9ef964c564e4eb7
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\cf\cf4dcbd2836b1409f9ef964c564e4eb7
+    projectPath: Library\Artifacts\cf\cf4dcbd2836b1409f9ef964c564e4eb7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\d5\d5788ebb4d1f3339e545e9e80401f721
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\d5\d5788ebb4d1f3339e545e9e80401f721
+    projectPath: Library\Artifacts\d5\d5788ebb4d1f3339e545e9e80401f721
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\d6\d6f6fc21038f568f5b8d043095a47b3a
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\d6\d6f6fc21038f568f5b8d043095a47b3a
+    projectPath: Library\Artifacts\d6\d6f6fc21038f568f5b8d043095a47b3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\d8\d8690b3cc72cbfbbce16db499162e4db
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\d8\d8690b3cc72cbfbbce16db499162e4db
+    projectPath: Library\Artifacts\d8\d8690b3cc72cbfbbce16db499162e4db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\d9\d95039147a8603be831576f1bd25827e
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\d9\d95039147a8603be831576f1bd25827e
+    projectPath: Library\Artifacts\d9\d95039147a8603be831576f1bd25827e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\da\da3eef32c8daf2cd4c318028aa3d59be
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\da\da3eef32c8daf2cd4c318028aa3d59be
+    projectPath: Library\Artifacts\da\da3eef32c8daf2cd4c318028aa3d59be
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\da\da8456c62032d35fb96b5a3023350b5b
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\da\da8456c62032d35fb96b5a3023350b5b
+    projectPath: Library\Artifacts\da\da8456c62032d35fb96b5a3023350b5b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\db\db16a094bfbec7ebf3349d585c8c79fa
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\db\db16a094bfbec7ebf3349d585c8c79fa
+    projectPath: Library\Artifacts\db\db16a094bfbec7ebf3349d585c8c79fa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\db\db56f9478875bd5ffe923da39cad0679
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\db\db56f9478875bd5ffe923da39cad0679
+    projectPath: Library\Artifacts\db\db56f9478875bd5ffe923da39cad0679
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\db\dbfb08451c12f3018ade29aa48ad4444
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\db\dbfb08451c12f3018ade29aa48ad4444
+    projectPath: Library\Artifacts\db\dbfb08451c12f3018ade29aa48ad4444
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\e0\e00814ee8ca6ad820cf443a9dbb8dff3
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\e0\e00814ee8ca6ad820cf443a9dbb8dff3
+    projectPath: Library\Artifacts\e0\e00814ee8ca6ad820cf443a9dbb8dff3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\e8\e8fd384a76d3ecbb5218ca2e4f005a1c
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\e8\e8fd384a76d3ecbb5218ca2e4f005a1c
+    projectPath: Library\Artifacts\e8\e8fd384a76d3ecbb5218ca2e4f005a1c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\ea\eaabf378cae495fb892805b1b784cb67
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\ea\eaabf378cae495fb892805b1b784cb67
+    projectPath: Library\Artifacts\ea\eaabf378cae495fb892805b1b784cb67
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\ec\ec074c144f2d37651cd6662d9e4eecf6
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\ec\ec074c144f2d37651cd6662d9e4eecf6
+    projectPath: Library\Artifacts\ec\ec074c144f2d37651cd6662d9e4eecf6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\f3\f3358ed2def0329142c7e4e9b3f78dff
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\f3\f3358ed2def0329142c7e4e9b3f78dff
+    projectPath: Library\Artifacts\f3\f3358ed2def0329142c7e4e9b3f78dff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\f4\f4ac515ed68634884f52212199f83b31
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\f4\f4ac515ed68634884f52212199f83b31
+    projectPath: Library\Artifacts\f4\f4ac515ed68634884f52212199f83b31
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\f4\f4d3676310496e4265b42be547e84089
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\f4\f4d3676310496e4265b42be547e84089
+    projectPath: Library\Artifacts\f4\f4d3676310496e4265b42be547e84089
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\f8\f870a01c680ebee1f1cab94e2bbe6881
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\f8\f870a01c680ebee1f1cab94e2bbe6881
+    projectPath: Library\Artifacts\f8\f870a01c680ebee1f1cab94e2bbe6881
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\fc\fc9812b01db8d2851067927a4304dc4f
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\fc\fc9812b01db8d2851067927a4304dc4f
+    projectPath: Library\Artifacts\fc\fc9812b01db8d2851067927a4304dc4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\ff\ffb7077054379880b002ac887f535834
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\ff\ffb7077054379880b002ac887f535834
+    projectPath: Library\Artifacts\ff\ffb7077054379880b002ac887f535834
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\EditorInstance.json
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\SourceAssetDB
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\SourceAssetDB-lock
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\SourceAssetDB-lock
+    projectPath: Library\SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Temp\UnityLockfile
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: README.md
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\README.md
+    projectPath: ..\README.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
