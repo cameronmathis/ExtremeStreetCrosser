@@ -42,6 +42,8 @@ Future Features:
 * Pot Holes
 * Construction Cites
 * Smooth Transition between Start and Instruction Scenes
+* Local Leaderboard
+* Global Leaderboard
 
 ## Status
 Version: 1.2.1 Alpha</br>
