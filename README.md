@@ -2,7 +2,7 @@
 A Frogger-like Unity Application that allows children to practice safe street crossing.
 
 ![platform:Windows](https://img.shields.io/badge/platform-Windows-lightgrey)
-![license:MIT](https://img.shields.io/github/license/cameronmathis/ExtremeStreetCrosser)
+[![license:MIT](https://img.shields.io/github/license/cameronmathis/ExtremeStreetCrosser)](LICENSE)
 
 ## Table of contents
 * [General info](#general-info)
