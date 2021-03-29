@@ -1,4 +1,4 @@
-# ExtremeStreetCrosser
+# Extreme Street Crosser
 A Frogger-like Unity Application that allows children to practice safe street crossing.
 
 [![platform](https://img.shields.io/badge/platform-Windows-lightgrey)](https://www.microsoft.com/en-us/store/b/windows?activetab=tab%3ashopwindows10)
