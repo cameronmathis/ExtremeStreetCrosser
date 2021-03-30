@@ -8,15 +8,16 @@ A Frogger-like Unity Application that allows children to practice safe street cr
 
 ### [Download Installer](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/main/ExtremeStreetCrosserInstaller.exe)
 
-## Table of contents
-* [General info](#general-info)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Language details](#Language-details)
-* [Developers](#developers)
+## Table of Contents
+* [General Info](#general-Info)
+* [Setup](#Setup)
+* [Features](#Features)
+* [Status](#Status)
+* [Security Policy](#Security-Policy)
+* [Language Details](#Language-Details)
+* [Developers](#Developers)
 
-## General info
+## General Info
 This is a project I collaborated on for my Game Design and Development class. I ended up enjoying it so much that I continued work on it even after I graduated. It is built for Windows x86 and x64 platforms. Feel free to pull the projcet down and tinker around with it!
 
 ## Setup
@@ -48,7 +49,23 @@ Future Features:
 Version: 1.3.0 Alpha</br>
 Project is: _in progress_
 
-## Language details
+## Security Policy
+
+### Supported Versions
+
+| Version       | Supported          |
+| ------------- | ------------------ |
+| 1.3.0 Alpha   | :white_check_mark: |
+| 1.2.0 Alpha   | :x:                |
+| 1.1.1 Alpha   | :x:                |
+| 1.1.0 Alpha   | :x:                |
+| 1.0.0 Alpha   | :x:                |
+
+### Reporting a Vulnerability
+
+If you find a security vulnerability, please report it under the [Issues](https://github.com/cameronmathis/ExtremeStreetCrosser/issues) tab of this repository and flag it as "security issue".
+
+## Language Details
 Language used: Unity </br>
 Version used: 2019.4.20f1
 
