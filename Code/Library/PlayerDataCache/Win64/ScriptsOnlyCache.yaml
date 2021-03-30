@@ -5,6 +5,8 @@ ScriptsOnlyBuild:
     - GameOverSceneController
     - InstructionsSceneController
     - LeftVehicleSpawnManager
+    - ObstacleController
+    - ObstacleSpawnManager
     - PlayerController
     - RightVehicleSpawnManager
     - SceneFadeController
@@ -12,6 +14,14 @@ ScriptsOnlyBuild:
     - StartSceneController
     - TimeManager
     - VehicleController
+    GitHub.Unity.45.dll:
+    - GitHub.Unity.ApplicationCache
+    - GitHub.Unity.EnvironmentCache
+    - GitHub.Unity.GitAheadBehindCache
+    - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitStatusCache
+    - GitHub.Unity.RepositoryInfoCache
+    - GitHub.Unity.Window
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.Graphs.dll:
@@ -71,21 +81,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11248}
+      Script: {instanceID: 11282}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 11440}
     - Class: 114
-      Script: {instanceID: 11446}
+      Script: {instanceID: 11482}
     - Class: 114
-      Script: {instanceID: 11838}
+      Script: {instanceID: 11882}
     - Class: 114
-      Script: {instanceID: 12224}
+      Script: {instanceID: 12362}
     - Class: 114
-      Script: {instanceID: 12414}
+      Script: {instanceID: 12558}
     - Class: 114
-      Script: {instanceID: 12718}
+      Script: {instanceID: 12866}
     - Class: 114
-      Script: {instanceID: 13076}
+      Script: {instanceID: 13236}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -148,33 +158,37 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11248}
+      Script: {instanceID: 11282}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 11440}
     - Class: 114
-      Script: {instanceID: 11446}
-    - Class: 114
-      Script: {instanceID: 11472}
-    - Class: 114
-      Script: {instanceID: 11484}
+      Script: {instanceID: 11482}
     - Class: 114
       Script: {instanceID: 11508}
     - Class: 114
-      Script: {instanceID: 11838}
+      Script: {instanceID: 11520}
     - Class: 114
-      Script: {instanceID: 12376}
+      Script: {instanceID: 11544}
     - Class: 114
-      Script: {instanceID: 12404}
+      Script: {instanceID: 11882}
     - Class: 114
-      Script: {instanceID: 12408}
+      Script: {instanceID: 12398}
     - Class: 114
-      Script: {instanceID: 12718}
+      Script: {instanceID: 12518}
     - Class: 114
-      Script: {instanceID: 12940}
+      Script: {instanceID: 12542}
     - Class: 114
-      Script: {instanceID: 13008}
+      Script: {instanceID: 12548}
     - Class: 114
-      Script: {instanceID: 13076}
+      Script: {instanceID: 12552}
+    - Class: 114
+      Script: {instanceID: 12866}
+    - Class: 114
+      Script: {instanceID: 13096}
+    - Class: 114
+      Script: {instanceID: 13166}
+    - Class: 114
+      Script: {instanceID: 13236}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -229,21 +243,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11248}
+      Script: {instanceID: 11282}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 11440}
     - Class: 114
-      Script: {instanceID: 11446}
+      Script: {instanceID: 11482}
     - Class: 114
-      Script: {instanceID: 11838}
+      Script: {instanceID: 11882}
     - Class: 114
-      Script: {instanceID: 12224}
+      Script: {instanceID: 12362}
     - Class: 114
-      Script: {instanceID: 12284}
+      Script: {instanceID: 12424}
     - Class: 114
-      Script: {instanceID: 12718}
+      Script: {instanceID: 12866}
     - Class: 114
-      Script: {instanceID: 13076}
+      Script: {instanceID: 13236}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -294,21 +308,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11248}
+      Script: {instanceID: 11282}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 11440}
     - Class: 114
-      Script: {instanceID: 11446}
+      Script: {instanceID: 11482}
     - Class: 114
-      Script: {instanceID: 11838}
+      Script: {instanceID: 11882}
     - Class: 114
-      Script: {instanceID: 11888}
+      Script: {instanceID: 11932}
     - Class: 114
-      Script: {instanceID: 12224}
+      Script: {instanceID: 12362}
     - Class: 114
-      Script: {instanceID: 12718}
+      Script: {instanceID: 12866}
     - Class: 114
-      Script: {instanceID: 13076}
+      Script: {instanceID: 13236}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -592,6 +606,12 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ObstacleController
+  - hash:
+      serializedVersion: 2
       Hash: bc6b2b57c14610836a8ee1d634536882
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -608,6 +628,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: LeftVehicleSpawnManager
+  - hash:
+      serializedVersion: 2
+      Hash: c9f82f2fca79877841b3b600759cc861
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ObstacleSpawnManager
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -824,5 +850,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/InstructionsScene.unity
   - Assets/Scenes/GameScene.unity
   - Assets/Scenes/GameOverScene.unity
-  playerPath: C:/Users/Cameron/Documents/College/Spring 2021/Game Design and Development/Projects/ExtremeStreetCrosser/AllBuilds/1.2.0
+  playerPath: C:/Users/Cameron/Documents/College/Spring 2021/Game Design and Development/Projects/ExtremeStreetCrosser/AllBuilds/1.3.0
     Alpha/Extreme Street Crosser.exe

@@ -17,7 +17,7 @@ public class LeftVehicleSpawnManager : MonoBehaviour
     {
         playerControllerScript = GameObject.Find("Player").GetComponent<PlayerController>();
 
-        //InvokeRepeating("spawnVehicle", startDelay, repeatRate);
+        InvokeRepeating("spawnVehicle", startDelay, repeatRate);
     }
 
     // Update is called once per frame
