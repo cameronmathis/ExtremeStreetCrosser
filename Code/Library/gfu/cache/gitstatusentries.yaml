@@ -13,66 +13,432 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-30T13:16:05.559-05:00
-  initializedAtString: 2021-03-30T13:13:21.995-05:00
+  lastUpdatedAtString: 2021-03-30T18:17:01.082-05:00
+  initializedAtString: 2021-03-30T17:30:41.876-05:00
   entries:
-  - path: Code\Assets\Scripts\GameScene\LeftVehicleSpawnManager.cs
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scripts\GameScene\LeftVehicleSpawnManager.cs
-    projectPath: Assets\Scripts\GameScene\LeftVehicleSpawnManager.cs
+  - path: Code\Assets\Misc\BothLeaderboardsPopUpImage.png
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Misc\BothLeaderboardsPopUpImage.png
+    projectPath: Assets\Misc\BothLeaderboardsPopUpImage.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Misc\BothLeaderboardsPopUpImage.png.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Misc\BothLeaderboardsPopUpImage.png.meta
+    projectPath: Assets\Misc\BothLeaderboardsPopUpImage.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Misc\InstructionsPopUpImage.png
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Misc\InstructionsPopUpImage.png
+    projectPath: Assets\Misc\InstructionsPopUpImage.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Misc\InstructionsPopUpImage.png.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Misc\InstructionsPopUpImage.png.meta
+    projectPath: Assets\Misc\InstructionsPopUpImage.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Misc\LocalLeaderboardsPopUpImage.png
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Misc\LocalLeaderboardsPopUpImage.png
+    projectPath: Assets\Misc\LocalLeaderboardsPopUpImage.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Misc\LocalLeaderboardsPopUpImage.png.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Misc\LocalLeaderboardsPopUpImage.png.meta
+    projectPath: Assets\Misc\LocalLeaderboardsPopUpImage.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Misc\PopUpImage.png
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Misc\PopUpImage.png
+    projectPath: Assets\Misc\PopUpImage.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Assets\Misc\PopUpImage.png.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Misc\PopUpImage.png.meta
+    projectPath: Assets\Misc\PopUpImage.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Assets\Scenes\GameOverScene.unity
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scenes\GameOverScene.unity
+    projectPath: Assets\Scenes\GameOverScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Code\Assets\Scripts\GameScene\RightVehicleSpawnManager.cs
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scripts\GameScene\RightVehicleSpawnManager.cs
-    projectPath: Assets\Scripts\GameScene\RightVehicleSpawnManager.cs
+  - path: Code\Assets\Scenes\GameScene.unity
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scenes\GameScene.unity
+    projectPath: Assets\Scenes\GameScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Code\Assets\Scenes\LeaderboardsScene.unity
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scenes\LeaderboardsScene.unity
+    projectPath: Assets\Scenes\LeaderboardsScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Scenes\LeaderboardsScene.unity.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scenes\LeaderboardsScene.unity.meta
+    projectPath: Assets\Scenes\LeaderboardsScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Scripts\GameOverScene\GameOverSceneController.cs
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scripts\GameOverScene\GameOverSceneController.cs
+    projectPath: Assets\Scripts\GameOverScene\GameOverSceneController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Assets\Scripts\GameScene\ScoreManager.cs
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scripts\GameScene\ScoreManager.cs
+    projectPath: Assets\Scripts\GameScene\ScoreManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Assets\Scripts\LeaderboardsScene.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scripts\LeaderboardsScene.meta
+    projectPath: Assets\Scripts\LeaderboardsScene.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Scripts\LeaderboardsScene\LeaderboardsSceneController.cs
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scripts\LeaderboardsScene\LeaderboardsSceneController.cs
+    projectPath: Assets\Scripts\LeaderboardsScene\LeaderboardsSceneController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Scripts\LeaderboardsScene\LeaderboardsSceneController.cs.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scripts\LeaderboardsScene\LeaderboardsSceneController.cs.meta
+    projectPath: Assets\Scripts\LeaderboardsScene\LeaderboardsSceneController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Scripts\PlayerObject.cs
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scripts\PlayerObject.cs
+    projectPath: Assets\Scripts\PlayerObject.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Assets\Scripts\PlayerObject.cs.meta
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Assets\Scripts\PlayerObject.cs.meta
+    projectPath: Assets\Scripts\PlayerObject.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Code\Library\ArtifactDB
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Code\Library\Artifacts\1f\1ffef3b790c257e77051e9f0efc52b5b
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\1f\1ffef3b790c257e77051e9f0efc52b5b
-    projectPath: Library\Artifacts\1f\1ffef3b790c257e77051e9f0efc52b5b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Code\Library\Artifacts\6e\6e4b78e603a2c67b0f2f0638e0f73e7a
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\6e\6e4b78e603a2c67b0f2f0638e0f73e7a
-    projectPath: Library\Artifacts\6e\6e4b78e603a2c67b0f2f0638e0f73e7a
+  - path: Code\Library\Artifacts\04\04509a0f0d3e2b2df7a8b3783efff97b
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\04\04509a0f0d3e2b2df7a8b3783efff97b
+    projectPath: Library\Artifacts\04\04509a0f0d3e2b2df7a8b3783efff97b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\Library\Artifacts\90\90c440cbdc00bcd231e7987f4248af88
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\90\90c440cbdc00bcd231e7987f4248af88
-    projectPath: Library\Artifacts\90\90c440cbdc00bcd231e7987f4248af88
+  - path: Code\Library\Artifacts\0c\0cec3172bde02377311b548000377950
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\0c\0cec3172bde02377311b548000377950
+    projectPath: Library\Artifacts\0c\0cec3172bde02377311b548000377950
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\0e\0e3d263aea2531f3f08332e33753a869
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\0e\0e3d263aea2531f3f08332e33753a869
+    projectPath: Library\Artifacts\0e\0e3d263aea2531f3f08332e33753a869
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\12\12b74646d88480c49111aed85316083f
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\12\12b74646d88480c49111aed85316083f
+    projectPath: Library\Artifacts\12\12b74646d88480c49111aed85316083f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\13\13a031f1ce7e73bf2c5815c56c7a4925
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\13\13a031f1ce7e73bf2c5815c56c7a4925
+    projectPath: Library\Artifacts\13\13a031f1ce7e73bf2c5815c56c7a4925
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\25\251a7a04dc1e0ced256bf997f3fc99bc
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\25\251a7a04dc1e0ced256bf997f3fc99bc
+    projectPath: Library\Artifacts\25\251a7a04dc1e0ced256bf997f3fc99bc
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Code\Library\Artifacts\ba\ba5b12d5d6586ab229bf727276039cac
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\ba\ba5b12d5d6586ab229bf727276039cac
-    projectPath: Library\Artifacts\ba\ba5b12d5d6586ab229bf727276039cac
+  - path: Code\Library\Artifacts\27\27922ba895b8ef923e181c07c50d69b4
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\27\27922ba895b8ef923e181c07c50d69b4
+    projectPath: Library\Artifacts\27\27922ba895b8ef923e181c07c50d69b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\2b\2b29ccf59dec7db127a2d6528de80038
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\2b\2b29ccf59dec7db127a2d6528de80038
+    projectPath: Library\Artifacts\2b\2b29ccf59dec7db127a2d6528de80038
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\2d\2de13464a5a68bc53f9d596b0567d954
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\2d\2de13464a5a68bc53f9d596b0567d954
+    projectPath: Library\Artifacts\2d\2de13464a5a68bc53f9d596b0567d954
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\32\328f088868d731a29e4407d28eb4028d
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\32\328f088868d731a29e4407d28eb4028d
+    projectPath: Library\Artifacts\32\328f088868d731a29e4407d28eb4028d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\40\40983e9106128526177c6bf1f5f5974a
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\40\40983e9106128526177c6bf1f5f5974a
+    projectPath: Library\Artifacts\40\40983e9106128526177c6bf1f5f5974a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\4a\4ada21d553bdb172f893537a814e2ac2
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\4a\4ada21d553bdb172f893537a814e2ac2
+    projectPath: Library\Artifacts\4a\4ada21d553bdb172f893537a814e2ac2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\5d\5d42db431c85412c88d74af7485dde50
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\5d\5d42db431c85412c88d74af7485dde50
+    projectPath: Library\Artifacts\5d\5d42db431c85412c88d74af7485dde50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\63\6393a74ee124be69b455703190570dac
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\63\6393a74ee124be69b455703190570dac
+    projectPath: Library\Artifacts\63\6393a74ee124be69b455703190570dac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    projectPath: Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\73\7392a3fb558bfbf08ced70a1bd9b2338
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\73\7392a3fb558bfbf08ced70a1bd9b2338
+    projectPath: Library\Artifacts\73\7392a3fb558bfbf08ced70a1bd9b2338
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\75\7522e1d90f92b6feb6c6f737ef306316
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\75\7522e1d90f92b6feb6c6f737ef306316
+    projectPath: Library\Artifacts\75\7522e1d90f92b6feb6c6f737ef306316
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\7c\7c2a9c8abfd02eb3a1cd8ef45d7af6d4
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\7c\7c2a9c8abfd02eb3a1cd8ef45d7af6d4
+    projectPath: Library\Artifacts\7c\7c2a9c8abfd02eb3a1cd8ef45d7af6d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\85\85a79fcbb819a0371f19f78f4b2ada56
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\85\85a79fcbb819a0371f19f78f4b2ada56
+    projectPath: Library\Artifacts\85\85a79fcbb819a0371f19f78f4b2ada56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\8b\8b67143a92f51faec0936468925fe2db
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\8b\8b67143a92f51faec0936468925fe2db
+    projectPath: Library\Artifacts\8b\8b67143a92f51faec0936468925fe2db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\90\90516a711011d12c6aebb41dcdf6973e
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\90\90516a711011d12c6aebb41dcdf6973e
+    projectPath: Library\Artifacts\90\90516a711011d12c6aebb41dcdf6973e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\91\9196cb2b311215789a82517602dd2b6e
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\91\9196cb2b311215789a82517602dd2b6e
+    projectPath: Library\Artifacts\91\9196cb2b311215789a82517602dd2b6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\92\92db308db154e3253913610ac54b7685
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\92\92db308db154e3253913610ac54b7685
+    projectPath: Library\Artifacts\92\92db308db154e3253913610ac54b7685
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\9b\9b8003684e3a866c1d0d445bb0fa4419
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\9b\9b8003684e3a866c1d0d445bb0fa4419
+    projectPath: Library\Artifacts\9b\9b8003684e3a866c1d0d445bb0fa4419
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\a4\a4f29b3b8b0a7d0e2e2d8c2781dc52c6
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\a4\a4f29b3b8b0a7d0e2e2d8c2781dc52c6
+    projectPath: Library\Artifacts\a4\a4f29b3b8b0a7d0e2e2d8c2781dc52c6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Code\Library\Artifacts\d0\d041938af8c3a95bb293a29094cea347
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\d0\d041938af8c3a95bb293a29094cea347
-    projectPath: Library\Artifacts\d0\d041938af8c3a95bb293a29094cea347
+  - path: Code\Library\Artifacts\ab\ab78cf8d5d179ca2d6316029bc283313
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\ab\ab78cf8d5d179ca2d6316029bc283313
+    projectPath: Library\Artifacts\ab\ab78cf8d5d179ca2d6316029bc283313
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\b5\b58fe148ecaf1d4c5348fc37132286c2
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\b5\b58fe148ecaf1d4c5348fc37132286c2
+    projectPath: Library\Artifacts\b5\b58fe148ecaf1d4c5348fc37132286c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\bb\bb5ac3e8b3625e05fdcbff525385902e
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\bb\bb5ac3e8b3625e05fdcbff525385902e
+    projectPath: Library\Artifacts\bb\bb5ac3e8b3625e05fdcbff525385902e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\bc\bc9f461fa8306b176a72fc912cd1fb59
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\bc\bc9f461fa8306b176a72fc912cd1fb59
+    projectPath: Library\Artifacts\bc\bc9f461fa8306b176a72fc912cd1fb59
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Code\Library\Artifacts\c4\c417b013d34459351108af8fee02b142
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\c4\c417b013d34459351108af8fee02b142
+    projectPath: Library\Artifacts\c4\c417b013d34459351108af8fee02b142
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\c4\c4d460680bfd52b92ba52c12e1be752e
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\c4\c4d460680bfd52b92ba52c12e1be752e
+    projectPath: Library\Artifacts\c4\c4d460680bfd52b92ba52c12e1be752e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\cb\cbe1e200b4b0e003a37532f6e248f95b
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\cb\cbe1e200b4b0e003a37532f6e248f95b
+    projectPath: Library\Artifacts\cb\cbe1e200b4b0e003a37532f6e248f95b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\cc\cc61e1fb0df77f8f4ab1cb3745ac25ca
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\cc\cc61e1fb0df77f8f4ab1cb3745ac25ca
+    projectPath: Library\Artifacts\cc\cc61e1fb0df77f8f4ab1cb3745ac25ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\d0\d0519e6a187e557a58c5129f3d54b5d3
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\d0\d0519e6a187e557a58c5129f3d54b5d3
+    projectPath: Library\Artifacts\d0\d0519e6a187e557a58c5129f3d54b5d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\d0\d0a5f7ecfd2d230faa3bb4b2fdc0f84f
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\d0\d0a5f7ecfd2d230faa3bb4b2fdc0f84f
+    projectPath: Library\Artifacts\d0\d0a5f7ecfd2d230faa3bb4b2fdc0f84f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\d0\d0ecefd59b23e4ebf28105104eaba208
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\d0\d0ecefd59b23e4ebf28105104eaba208
+    projectPath: Library\Artifacts\d0\d0ecefd59b23e4ebf28105104eaba208
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\de\dededd6df6b7a413c7b5de5612052a2f
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\de\dededd6df6b7a413c7b5de5612052a2f
+    projectPath: Library\Artifacts\de\dededd6df6b7a413c7b5de5612052a2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\e6\e6a36eb9845e8f10fe2ae2b60ba27752
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\e6\e6a36eb9845e8f10fe2ae2b60ba27752
+    projectPath: Library\Artifacts\e6\e6a36eb9845e8f10fe2ae2b60ba27752
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\e8\e84195b219f7abdd1b31e3690df50554
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\e8\e84195b219f7abdd1b31e3690df50554
+    projectPath: Library\Artifacts\e8\e84195b219f7abdd1b31e3690df50554
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\ea\ea0cccf2f8316addf8cb573d9eb2bf4b
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\ea\ea0cccf2f8316addf8cb573d9eb2bf4b
+    projectPath: Library\Artifacts\ea\ea0cccf2f8316addf8cb573d9eb2bf4b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\ec\ec1aa109b8fd1f32bbfd22d69dbc01be
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\ec\ec1aa109b8fd1f32bbfd22d69dbc01be
+    projectPath: Library\Artifacts\ec\ec1aa109b8fd1f32bbfd22d69dbc01be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\ed\ed57ee9e59d6288a4d3153b9fe550882
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\ed\ed57ee9e59d6288a4d3153b9fe550882
+    projectPath: Library\Artifacts\ed\ed57ee9e59d6288a4d3153b9fe550882
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\ef\efb584f765ab93aa81ae0d1d7d515267
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\ef\efb584f765ab93aa81ae0d1d7d515267
+    projectPath: Library\Artifacts\ef\efb584f765ab93aa81ae0d1d7d515267
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\f2\f2213bac614ddb21ef0086f12c88cc15
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\f2\f2213bac614ddb21ef0086f12c88cc15
+    projectPath: Library\Artifacts\f2\f2213bac614ddb21ef0086f12c88cc15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\fb\fbd84ce85bfd9f8909e7016e5488fc82
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\fb\fbd84ce85bfd9f8909e7016e5488fc82
+    projectPath: Library\Artifacts\fb\fbd84ce85bfd9f8909e7016e5488fc82
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\fc\fccee8c321defdabd541552adc474690
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\fc\fccee8c321defdabd541552adc474690
+    projectPath: Library\Artifacts\fc\fccee8c321defdabd541552adc474690
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Library\Artifacts\fd\fd5d6895c731cbe9ae1ef612390eebe1
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\fd\fd5d6895c731cbe9ae1ef612390eebe1
+    projectPath: Library\Artifacts\fd\fd5d6895c731cbe9ae1ef612390eebe1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Library\Artifacts\fe\feb403d6d3f03a5933d873a9568dba5d
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\fe\feb403d6d3f03a5933d873a9568dba5d
+    projectPath: Library\Artifacts\fe\feb403d6d3f03a5933d873a9568dba5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Code\Library\EditorInstance.json
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\EditorUserBuildSettings.asset
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -94,105 +460,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Code\Library\LastBuild.buildreport
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\LastBuild.buildreport
-    projectPath: Library\LastBuild.buildreport
+  - path: Code\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\globalgamemanagers
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\globalgamemanagers
-    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\level0
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\level0
-    projectPath: Library\PlayerDataCache\Win64\Data\level0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\level1
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\level1
-    projectPath: Library\PlayerDataCache\Win64\Data\level1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\level2
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\level2
-    projectPath: Library\PlayerDataCache\Win64\Data\level2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\level3
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\level3
-    projectPath: Library\PlayerDataCache\Win64\Data\level3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\sharedassets2.assets
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\sharedassets2.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets2.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\sharedassets2.assets.resS
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\sharedassets2.assets.resS
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets2.assets.resS
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\Data\sharedassets3.assets
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\Data\sharedassets3.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets3.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
-    projectPath: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+  - path: Code\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -202,777 +478,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Code\Library\ShaderCache\0\01a6f63a33f764a4cfd55636a8be5761.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\0\01a6f63a33f764a4cfd55636a8be5761.bin
-    projectPath: Library\ShaderCache\0\01a6f63a33f764a4cfd55636a8be5761.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\0\05658863c8aaf730c2b079ad7c18ef12.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\0\05658863c8aaf730c2b079ad7c18ef12.bin
-    projectPath: Library\ShaderCache\0\05658863c8aaf730c2b079ad7c18ef12.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\0\05d9216e7604aaef3ce5858fd9aa7a8d.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\0\05d9216e7604aaef3ce5858fd9aa7a8d.bin
-    projectPath: Library\ShaderCache\0\05d9216e7604aaef3ce5858fd9aa7a8d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\0\088f6db9c564596702da91b644621f9d.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\0\088f6db9c564596702da91b644621f9d.bin
-    projectPath: Library\ShaderCache\0\088f6db9c564596702da91b644621f9d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\0\08ad4a78f57510cf982a3f99017366b9.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\0\08ad4a78f57510cf982a3f99017366b9.bin
-    projectPath: Library\ShaderCache\0\08ad4a78f57510cf982a3f99017366b9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\0\0b9adff8f033c1affa8ecba84da2745f.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\0\0b9adff8f033c1affa8ecba84da2745f.bin
-    projectPath: Library\ShaderCache\0\0b9adff8f033c1affa8ecba84da2745f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\0\0bc0d563b3b0d1a376938198211a36b5.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\0\0bc0d563b3b0d1a376938198211a36b5.bin
-    projectPath: Library\ShaderCache\0\0bc0d563b3b0d1a376938198211a36b5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\12457bfdfb97df4c11a71f5dcbe0c87a.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\12457bfdfb97df4c11a71f5dcbe0c87a.bin
-    projectPath: Library\ShaderCache\1\12457bfdfb97df4c11a71f5dcbe0c87a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\12e2840db9a7d538ffab3243d6bd2124.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\12e2840db9a7d538ffab3243d6bd2124.bin
-    projectPath: Library\ShaderCache\1\12e2840db9a7d538ffab3243d6bd2124.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\1345836a48fe157d3568e660f2ea2533.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\1345836a48fe157d3568e660f2ea2533.bin
-    projectPath: Library\ShaderCache\1\1345836a48fe157d3568e660f2ea2533.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\16acd0db9fe6d76ecb5db57b380e5ddd.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\16acd0db9fe6d76ecb5db57b380e5ddd.bin
-    projectPath: Library\ShaderCache\1\16acd0db9fe6d76ecb5db57b380e5ddd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\1824ab26b59272a9e135308d03cf5f42.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\1824ab26b59272a9e135308d03cf5f42.bin
-    projectPath: Library\ShaderCache\1\1824ab26b59272a9e135308d03cf5f42.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\1ab2ff244825ef829d26351f9dc93909.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\1ab2ff244825ef829d26351f9dc93909.bin
-    projectPath: Library\ShaderCache\1\1ab2ff244825ef829d26351f9dc93909.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\1aec59f51a43a0433a01ba56c0300b26.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\1aec59f51a43a0433a01ba56c0300b26.bin
-    projectPath: Library\ShaderCache\1\1aec59f51a43a0433a01ba56c0300b26.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\1bc5ee6a93767dc967a8558c9ff2a47b.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\1bc5ee6a93767dc967a8558c9ff2a47b.bin
-    projectPath: Library\ShaderCache\1\1bc5ee6a93767dc967a8558c9ff2a47b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\1bdf8175ff67015497ced550d885610f.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\1bdf8175ff67015497ced550d885610f.bin
-    projectPath: Library\ShaderCache\1\1bdf8175ff67015497ced550d885610f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\1d328ccc1bbf1be73177e714aff6b01f.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\1d328ccc1bbf1be73177e714aff6b01f.bin
-    projectPath: Library\ShaderCache\1\1d328ccc1bbf1be73177e714aff6b01f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\1d427029959708116415cdd005f0634c.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\1d427029959708116415cdd005f0634c.bin
-    projectPath: Library\ShaderCache\1\1d427029959708116415cdd005f0634c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\1\1ef924325f786857d756460414974478.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\1\1ef924325f786857d756460414974478.bin
-    projectPath: Library\ShaderCache\1\1ef924325f786857d756460414974478.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\2\220311a3b000aaa528139a9d4b49128b.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\2\220311a3b000aaa528139a9d4b49128b.bin
-    projectPath: Library\ShaderCache\2\220311a3b000aaa528139a9d4b49128b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\2\2aa5dc1e9d81de0fd85894ba98501f30.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\2\2aa5dc1e9d81de0fd85894ba98501f30.bin
-    projectPath: Library\ShaderCache\2\2aa5dc1e9d81de0fd85894ba98501f30.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\2\2abd12c56605aa1682914ff4bfdc0a6c.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\2\2abd12c56605aa1682914ff4bfdc0a6c.bin
-    projectPath: Library\ShaderCache\2\2abd12c56605aa1682914ff4bfdc0a6c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\2\2cbe9c5d5551b48104b062a605eeb5d9.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\2\2cbe9c5d5551b48104b062a605eeb5d9.bin
-    projectPath: Library\ShaderCache\2\2cbe9c5d5551b48104b062a605eeb5d9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\2\2d1bfb3ec65621a1e872cc0859a82f1e.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\2\2d1bfb3ec65621a1e872cc0859a82f1e.bin
-    projectPath: Library\ShaderCache\2\2d1bfb3ec65621a1e872cc0859a82f1e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\2\2fc4b20842f031f47183b48d5861ff7b.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\2\2fc4b20842f031f47183b48d5861ff7b.bin
-    projectPath: Library\ShaderCache\2\2fc4b20842f031f47183b48d5861ff7b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\3\3286818c1e354f2dc66ead00ae7c1d76.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\3\3286818c1e354f2dc66ead00ae7c1d76.bin
-    projectPath: Library\ShaderCache\3\3286818c1e354f2dc66ead00ae7c1d76.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\3\33d5eae645e8a3a48309a524b08cfa78.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\3\33d5eae645e8a3a48309a524b08cfa78.bin
-    projectPath: Library\ShaderCache\3\33d5eae645e8a3a48309a524b08cfa78.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\3\37caf2bb35ee77ee7f2584c596bfe0af.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\3\37caf2bb35ee77ee7f2584c596bfe0af.bin
-    projectPath: Library\ShaderCache\3\37caf2bb35ee77ee7f2584c596bfe0af.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\3\38ddcda2aa2371808368ce70ad1e3b6f.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\3\38ddcda2aa2371808368ce70ad1e3b6f.bin
-    projectPath: Library\ShaderCache\3\38ddcda2aa2371808368ce70ad1e3b6f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\3\399594c54284282aca7e5646eec5c8ac.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\3\399594c54284282aca7e5646eec5c8ac.bin
-    projectPath: Library\ShaderCache\3\399594c54284282aca7e5646eec5c8ac.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\3\3a9693acf2031320503862de5e83cbb1.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\3\3a9693acf2031320503862de5e83cbb1.bin
-    projectPath: Library\ShaderCache\3\3a9693acf2031320503862de5e83cbb1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\4\40869c01b6e86e50a7a196a7b27dbad3.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\4\40869c01b6e86e50a7a196a7b27dbad3.bin
-    projectPath: Library\ShaderCache\4\40869c01b6e86e50a7a196a7b27dbad3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\4\40c882e1dcaf2527ba05b9fd64d83e8a.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\4\40c882e1dcaf2527ba05b9fd64d83e8a.bin
-    projectPath: Library\ShaderCache\4\40c882e1dcaf2527ba05b9fd64d83e8a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\4\41c6b060daeee8ceaf2ca54dd0de6661.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\4\41c6b060daeee8ceaf2ca54dd0de6661.bin
-    projectPath: Library\ShaderCache\4\41c6b060daeee8ceaf2ca54dd0de6661.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\4\4248c63fc0dbac8292007bd3ca71fea1.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\4\4248c63fc0dbac8292007bd3ca71fea1.bin
-    projectPath: Library\ShaderCache\4\4248c63fc0dbac8292007bd3ca71fea1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\4\4282d07d279d82d7f1cd19e9172717a2.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\4\4282d07d279d82d7f1cd19e9172717a2.bin
-    projectPath: Library\ShaderCache\4\4282d07d279d82d7f1cd19e9172717a2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\4\473138df71638c462cee040a28f41b3c.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\4\473138df71638c462cee040a28f41b3c.bin
-    projectPath: Library\ShaderCache\4\473138df71638c462cee040a28f41b3c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\4\4ef02b99a2efb9d1e8ac87e21fcae6e6.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\4\4ef02b99a2efb9d1e8ac87e21fcae6e6.bin
-    projectPath: Library\ShaderCache\4\4ef02b99a2efb9d1e8ac87e21fcae6e6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\5\50e8ffe7422928fff3222085e376f976.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\5\50e8ffe7422928fff3222085e376f976.bin
-    projectPath: Library\ShaderCache\5\50e8ffe7422928fff3222085e376f976.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\5\516a0293aafdb416972200622e3acc30.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\5\516a0293aafdb416972200622e3acc30.bin
-    projectPath: Library\ShaderCache\5\516a0293aafdb416972200622e3acc30.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\5\5387258d54613536644b9f3aa2214de4.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\5\5387258d54613536644b9f3aa2214de4.bin
-    projectPath: Library\ShaderCache\5\5387258d54613536644b9f3aa2214de4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\5\5658c4ee6d0ddb9cc4f3863dd2d2840a.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\5\5658c4ee6d0ddb9cc4f3863dd2d2840a.bin
-    projectPath: Library\ShaderCache\5\5658c4ee6d0ddb9cc4f3863dd2d2840a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\5\581f836a411ef18efb6969476bc55d28.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\5\581f836a411ef18efb6969476bc55d28.bin
-    projectPath: Library\ShaderCache\5\581f836a411ef18efb6969476bc55d28.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\5\5d61a4a90eff678696c260ea620452e8.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\5\5d61a4a90eff678696c260ea620452e8.bin
-    projectPath: Library\ShaderCache\5\5d61a4a90eff678696c260ea620452e8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\5\5f59127fd500e6548a83133f3a648acf.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\5\5f59127fd500e6548a83133f3a648acf.bin
-    projectPath: Library\ShaderCache\5\5f59127fd500e6548a83133f3a648acf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\5\5fe989898065165e378301ec19ef59fa.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\5\5fe989898065165e378301ec19ef59fa.bin
-    projectPath: Library\ShaderCache\5\5fe989898065165e378301ec19ef59fa.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\6\61c0765597d4cbb6fc3030e237de7eba.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\6\61c0765597d4cbb6fc3030e237de7eba.bin
-    projectPath: Library\ShaderCache\6\61c0765597d4cbb6fc3030e237de7eba.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\6\63f82fef0115e8753d666de91230eb8d.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\6\63f82fef0115e8753d666de91230eb8d.bin
-    projectPath: Library\ShaderCache\6\63f82fef0115e8753d666de91230eb8d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\6\6575d0ff735d24b23bc2208ab46cddaa.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\6\6575d0ff735d24b23bc2208ab46cddaa.bin
-    projectPath: Library\ShaderCache\6\6575d0ff735d24b23bc2208ab46cddaa.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\6\6b099e2879d311d01c0d6281b7268e07.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\6\6b099e2879d311d01c0d6281b7268e07.bin
-    projectPath: Library\ShaderCache\6\6b099e2879d311d01c0d6281b7268e07.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\6\6b7e9f16eba8ff9901c0527ef75005c3.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\6\6b7e9f16eba8ff9901c0527ef75005c3.bin
-    projectPath: Library\ShaderCache\6\6b7e9f16eba8ff9901c0527ef75005c3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\6\6f0b6ee039206f07a26d2b07c61a9c85.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\6\6f0b6ee039206f07a26d2b07c61a9c85.bin
-    projectPath: Library\ShaderCache\6\6f0b6ee039206f07a26d2b07c61a9c85.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\7\72edcea45c1cb433ab315bcec227cdbb.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\7\72edcea45c1cb433ab315bcec227cdbb.bin
-    projectPath: Library\ShaderCache\7\72edcea45c1cb433ab315bcec227cdbb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\7\73348f1620a74dc96f68237570ad9de8.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\7\73348f1620a74dc96f68237570ad9de8.bin
-    projectPath: Library\ShaderCache\7\73348f1620a74dc96f68237570ad9de8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\7\756903e2e913104439d77f9fd73f8231.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\7\756903e2e913104439d77f9fd73f8231.bin
-    projectPath: Library\ShaderCache\7\756903e2e913104439d77f9fd73f8231.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\7\78a9c897e8141487bebebf01337ca6f2.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\7\78a9c897e8141487bebebf01337ca6f2.bin
-    projectPath: Library\ShaderCache\7\78a9c897e8141487bebebf01337ca6f2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\7\79b5e8acbbc3ce35fb894a155a1876ba.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\7\79b5e8acbbc3ce35fb894a155a1876ba.bin
-    projectPath: Library\ShaderCache\7\79b5e8acbbc3ce35fb894a155a1876ba.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\7\7aeb0d8a2c2c4b23e6955835e43241a6.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\7\7aeb0d8a2c2c4b23e6955835e43241a6.bin
-    projectPath: Library\ShaderCache\7\7aeb0d8a2c2c4b23e6955835e43241a6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\7\7d7656185889b1f3317c828ac5aae978.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\7\7d7656185889b1f3317c828ac5aae978.bin
-    projectPath: Library\ShaderCache\7\7d7656185889b1f3317c828ac5aae978.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\8\80ea02f6516746666f793167376a72bd.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\8\80ea02f6516746666f793167376a72bd.bin
-    projectPath: Library\ShaderCache\8\80ea02f6516746666f793167376a72bd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\8\8aad56edf4d4c9ed38fd5d06b26e285f.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\8\8aad56edf4d4c9ed38fd5d06b26e285f.bin
-    projectPath: Library\ShaderCache\8\8aad56edf4d4c9ed38fd5d06b26e285f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\8\8cef18450dcdc195bb7ddd3e6a71275b.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\8\8cef18450dcdc195bb7ddd3e6a71275b.bin
-    projectPath: Library\ShaderCache\8\8cef18450dcdc195bb7ddd3e6a71275b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\8\8e2751f791d9ddb66cfc94554376364a.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\8\8e2751f791d9ddb66cfc94554376364a.bin
-    projectPath: Library\ShaderCache\8\8e2751f791d9ddb66cfc94554376364a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\8\8fa158dbc73ebf8ba3091188190f65da.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\8\8fa158dbc73ebf8ba3091188190f65da.bin
-    projectPath: Library\ShaderCache\8\8fa158dbc73ebf8ba3091188190f65da.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\9\92f3155b8094fe5ce74d4eadfc6f1453.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\9\92f3155b8094fe5ce74d4eadfc6f1453.bin
-    projectPath: Library\ShaderCache\9\92f3155b8094fe5ce74d4eadfc6f1453.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\9\9d920678c35ce4d6516b0f3af50c0c37.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\9\9d920678c35ce4d6516b0f3af50c0c37.bin
-    projectPath: Library\ShaderCache\9\9d920678c35ce4d6516b0f3af50c0c37.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\9\9dce4b96d5eadd68df04a74ec80ac449.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\9\9dce4b96d5eadd68df04a74ec80ac449.bin
-    projectPath: Library\ShaderCache\9\9dce4b96d5eadd68df04a74ec80ac449.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\a\a46fa7bd9527038972571ebf0a00be80.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\a\a46fa7bd9527038972571ebf0a00be80.bin
-    projectPath: Library\ShaderCache\a\a46fa7bd9527038972571ebf0a00be80.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\a\a4720df7d6326361846b56a82aae9bbe.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\a\a4720df7d6326361846b56a82aae9bbe.bin
-    projectPath: Library\ShaderCache\a\a4720df7d6326361846b56a82aae9bbe.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\a\a5f52b70d65637eca5d4ca47161e9dae.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\a\a5f52b70d65637eca5d4ca47161e9dae.bin
-    projectPath: Library\ShaderCache\a\a5f52b70d65637eca5d4ca47161e9dae.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\a\a9938c1f6abed2ee474c15fe0483a14c.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\a\a9938c1f6abed2ee474c15fe0483a14c.bin
-    projectPath: Library\ShaderCache\a\a9938c1f6abed2ee474c15fe0483a14c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\a\aba2cf42952e9aec3c4223ef613a6a93.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\a\aba2cf42952e9aec3c4223ef613a6a93.bin
-    projectPath: Library\ShaderCache\a\aba2cf42952e9aec3c4223ef613a6a93.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\a\ada392c0661ec50452695cc7543458bc.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\a\ada392c0661ec50452695cc7543458bc.bin
-    projectPath: Library\ShaderCache\a\ada392c0661ec50452695cc7543458bc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\b\b1a01ce88ca2b0df616d4717254aa59b.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\b\b1a01ce88ca2b0df616d4717254aa59b.bin
-    projectPath: Library\ShaderCache\b\b1a01ce88ca2b0df616d4717254aa59b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\b\b27bb0f170f8cc16e71ae44b802d630c.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\b\b27bb0f170f8cc16e71ae44b802d630c.bin
-    projectPath: Library\ShaderCache\b\b27bb0f170f8cc16e71ae44b802d630c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\b\b43239904d41a02285330aa246d896ee.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\b\b43239904d41a02285330aa246d896ee.bin
-    projectPath: Library\ShaderCache\b\b43239904d41a02285330aa246d896ee.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\b\b65fae6182cac1e3b6b81cc1f66a0d0f.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\b\b65fae6182cac1e3b6b81cc1f66a0d0f.bin
-    projectPath: Library\ShaderCache\b\b65fae6182cac1e3b6b81cc1f66a0d0f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\b\baa385e8fb2ee2a6731ba8fd45e90182.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\b\baa385e8fb2ee2a6731ba8fd45e90182.bin
-    projectPath: Library\ShaderCache\b\baa385e8fb2ee2a6731ba8fd45e90182.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\b\bce99058918a749a30c3214483105775.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\b\bce99058918a749a30c3214483105775.bin
-    projectPath: Library\ShaderCache\b\bce99058918a749a30c3214483105775.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\b\bd0bd5958103f1ad81535d8e28c77f86.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\b\bd0bd5958103f1ad81535d8e28c77f86.bin
-    projectPath: Library\ShaderCache\b\bd0bd5958103f1ad81535d8e28c77f86.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\b\bdbae6e158a009efec6dedd790ccb8cb.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\b\bdbae6e158a009efec6dedd790ccb8cb.bin
-    projectPath: Library\ShaderCache\b\bdbae6e158a009efec6dedd790ccb8cb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\c19dddb7e35a67fee9a647407b8e8ed0.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\c19dddb7e35a67fee9a647407b8e8ed0.bin
-    projectPath: Library\ShaderCache\c\c19dddb7e35a67fee9a647407b8e8ed0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\c3ee0785b0af524a5ee26b6efa994a0e.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\c3ee0785b0af524a5ee26b6efa994a0e.bin
-    projectPath: Library\ShaderCache\c\c3ee0785b0af524a5ee26b6efa994a0e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\c7ae9233f228b0e29ddf4b5d7746229e.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\c7ae9233f228b0e29ddf4b5d7746229e.bin
-    projectPath: Library\ShaderCache\c\c7ae9233f228b0e29ddf4b5d7746229e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\c9a6146d4a00abb03c2a68c20507afbf.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\c9a6146d4a00abb03c2a68c20507afbf.bin
-    projectPath: Library\ShaderCache\c\c9a6146d4a00abb03c2a68c20507afbf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\ca38e56e50e92aa1efcc938d435183ab.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\ca38e56e50e92aa1efcc938d435183ab.bin
-    projectPath: Library\ShaderCache\c\ca38e56e50e92aa1efcc938d435183ab.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\caed004f0f598b655530bb9a39740594.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\caed004f0f598b655530bb9a39740594.bin
-    projectPath: Library\ShaderCache\c\caed004f0f598b655530bb9a39740594.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\cb831ad48a551f4497f600e6b2799ad6.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\cb831ad48a551f4497f600e6b2799ad6.bin
-    projectPath: Library\ShaderCache\c\cb831ad48a551f4497f600e6b2799ad6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\cbb9e3a8c36e0390e2dbc7d7eaf463f7.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\cbb9e3a8c36e0390e2dbc7d7eaf463f7.bin
-    projectPath: Library\ShaderCache\c\cbb9e3a8c36e0390e2dbc7d7eaf463f7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\cbe54706d3efd4b1ffc4762bf2ad8b57.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\cbe54706d3efd4b1ffc4762bf2ad8b57.bin
-    projectPath: Library\ShaderCache\c\cbe54706d3efd4b1ffc4762bf2ad8b57.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\cbf12fa0338b8fe5f37c87f9f07ae84f.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\cbf12fa0338b8fe5f37c87f9f07ae84f.bin
-    projectPath: Library\ShaderCache\c\cbf12fa0338b8fe5f37c87f9f07ae84f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\cea067724786038106cd711f29cc9f17.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\cea067724786038106cd711f29cc9f17.bin
-    projectPath: Library\ShaderCache\c\cea067724786038106cd711f29cc9f17.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\ceaf08554acd6e4a410b0815c5f90ecd.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\ceaf08554acd6e4a410b0815c5f90ecd.bin
-    projectPath: Library\ShaderCache\c\ceaf08554acd6e4a410b0815c5f90ecd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\c\cf16ceb2118281d034d8ac9a65a7c2a9.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\c\cf16ceb2118281d034d8ac9a65a7c2a9.bin
-    projectPath: Library\ShaderCache\c\cf16ceb2118281d034d8ac9a65a7c2a9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\d\d1619b9e62ee3f5032acf6d8896dcd3c.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\d\d1619b9e62ee3f5032acf6d8896dcd3c.bin
-    projectPath: Library\ShaderCache\d\d1619b9e62ee3f5032acf6d8896dcd3c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\d\d4f590d659904d984b1e69a4f8b4d6b4.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\d\d4f590d659904d984b1e69a4f8b4d6b4.bin
-    projectPath: Library\ShaderCache\d\d4f590d659904d984b1e69a4f8b4d6b4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\d\d848fa356eb0e78cc08a89c2b1663c0d.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\d\d848fa356eb0e78cc08a89c2b1663c0d.bin
-    projectPath: Library\ShaderCache\d\d848fa356eb0e78cc08a89c2b1663c0d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\d\da4e7633bb149f25116070fbca4d136c.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\d\da4e7633bb149f25116070fbca4d136c.bin
-    projectPath: Library\ShaderCache\d\da4e7633bb149f25116070fbca4d136c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\d\dc5338d49ff27121db80fe7613722a2f.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\d\dc5338d49ff27121db80fe7613722a2f.bin
-    projectPath: Library\ShaderCache\d\dc5338d49ff27121db80fe7613722a2f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\e\e3ba58e506781c68383f2e6d190e92a9.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\e\e3ba58e506781c68383f2e6d190e92a9.bin
-    projectPath: Library\ShaderCache\e\e3ba58e506781c68383f2e6d190e92a9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\e\e50b9072fa911941e29af705171ad607.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\e\e50b9072fa911941e29af705171ad607.bin
-    projectPath: Library\ShaderCache\e\e50b9072fa911941e29af705171ad607.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\e\e5dcfb05bbc90f59ecb5d481a7ce86b1.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\e\e5dcfb05bbc90f59ecb5d481a7ce86b1.bin
-    projectPath: Library\ShaderCache\e\e5dcfb05bbc90f59ecb5d481a7ce86b1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\e\e7da2e5b6ff0a34ed240f99a0c97fb6b.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\e\e7da2e5b6ff0a34ed240f99a0c97fb6b.bin
-    projectPath: Library\ShaderCache\e\e7da2e5b6ff0a34ed240f99a0c97fb6b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\e\e8ea4d658df8824ab7291720742157a6.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\e\e8ea4d658df8824ab7291720742157a6.bin
-    projectPath: Library\ShaderCache\e\e8ea4d658df8824ab7291720742157a6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\e\e9a0b16c2bd626d94cfa735f669941e5.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\e\e9a0b16c2bd626d94cfa735f669941e5.bin
-    projectPath: Library\ShaderCache\e\e9a0b16c2bd626d94cfa735f669941e5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\e\e9a5492f47f39a27279a872cd2eb1b41.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\e\e9a5492f47f39a27279a872cd2eb1b41.bin
-    projectPath: Library\ShaderCache\e\e9a5492f47f39a27279a872cd2eb1b41.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\e\e9d109f99b59aeb042a38f845cbe93f4.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\e\e9d109f99b59aeb042a38f845cbe93f4.bin
-    projectPath: Library\ShaderCache\e\e9d109f99b59aeb042a38f845cbe93f4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\f\f13d0ef21a3e1f9a1e87a54f3cc3b02a.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\f\f13d0ef21a3e1f9a1e87a54f3cc3b02a.bin
-    projectPath: Library\ShaderCache\f\f13d0ef21a3e1f9a1e87a54f3cc3b02a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\f\f1989fa19892a6406b0b59d66e04e072.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\f\f1989fa19892a6406b0b59d66e04e072.bin
-    projectPath: Library\ShaderCache\f\f1989fa19892a6406b0b59d66e04e072.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\f\f1db6d02da80cd606a53cc7ea4140f4f.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\f\f1db6d02da80cd606a53cc7ea4140f4f.bin
-    projectPath: Library\ShaderCache\f\f1db6d02da80cd606a53cc7ea4140f4f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\f\f2000573e55f4d9531c1285055041fd0.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\f\f2000573e55f4d9531c1285055041fd0.bin
-    projectPath: Library\ShaderCache\f\f2000573e55f4d9531c1285055041fd0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\f\f38f84ee4dae5467a404ad0fe182efdb.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\f\f38f84ee4dae5467a404ad0fe182efdb.bin
-    projectPath: Library\ShaderCache\f\f38f84ee4dae5467a404ad0fe182efdb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\f\f3d10f4ee50db30eaa0641165a4f936b.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\f\f3d10f4ee50db30eaa0641165a4f936b.bin
-    projectPath: Library\ShaderCache\f\f3d10f4ee50db30eaa0641165a4f936b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\f\f7d73d7dff69b10399760843c5bc1182.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\f\f7d73d7dff69b10399760843c5bc1182.bin
-    projectPath: Library\ShaderCache\f\f7d73d7dff69b10399760843c5bc1182.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\f\fa44cdcf50255f123d11b33b04d5cdab.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\f\fa44cdcf50255f123d11b33b04d5cdab.bin
-    projectPath: Library\ShaderCache\f\fa44cdcf50255f123d11b33b04d5cdab.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\f\faeac42df8429d7301c802fd34e64c0e.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\f\faeac42df8429d7301c802fd34e64c0e.bin
-    projectPath: Library\ShaderCache\f\faeac42df8429d7301c802fd34e64c0e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\Library\ShaderCache\f\ff44a1e7be22828ae8e15639a5084895.bin
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ShaderCache\f\ff44a1e7be22828ae8e15639a5084895.bin
-    projectPath: Library\ShaderCache\f\ff44a1e7be22828ae8e15639a5084895.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Code\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\shadercompiler-UnityShaderCompiler.exe10.log
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe10.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\shadercompiler-UnityShaderCompiler.exe11.log
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe11.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\shadercompiler-UnityShaderCompiler.exe8.log
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe8.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\shadercompiler-UnityShaderCompiler.exe9.log
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\shadercompiler-UnityShaderCompiler.exe9.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -988,27 +496,947 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Code\Library\StateCache\SceneView\02b595-mainStage.json
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\StateCache\SceneView\02b595-mainStage.json
+    projectPath: Library\StateCache\SceneView\02b595-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Code\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Temp\StagingArea\Extreme Street Crosser.exe
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser.exe
+    projectPath: Temp\StagingArea\Extreme Street Crosser.exe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\app.info
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\app.info
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\app.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\boot.config
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\boot.config
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\boot.config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\globalgamemanagers
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\globalgamemanagers
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\globalgamemanagers.assets
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\globalgamemanagers.assets
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\level0
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\level0
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\level0.resS
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\level0.resS
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\level0.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\level1
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\level1
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\level1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\level2
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\level2
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\level2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\level3
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\level3
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\level3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\Assembly-CSharp.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\Mono.Security.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\Mono.Security.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\mscorlib.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\mscorlib.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\netstandard.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\netstandard.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\netstandard.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Configuration.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Configuration.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Configuration.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Core.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Core.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Data.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Data.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Data.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Diagnostics.StackTrace.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Diagnostics.StackTrace.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Drawing.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Drawing.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Drawing.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.EnterpriseServices.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.EnterpriseServices.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Globalization.Extensions.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Globalization.Extensions.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Globalization.Extensions.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.IO.Compression.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.IO.Compression.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Net.Http.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Net.Http.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Numerics.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Numerics.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Numerics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Runtime.Serialization.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Runtime.Serialization.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Runtime.Serialization.Xml.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Runtime.Serialization.Xml.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Transactions.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Transactions.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Transactions.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Xml.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Xml.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Xml.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Xml.Linq.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Xml.Linq.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Xml.XPath.XDocument.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\System.Xml.XPath.XDocument.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\Unity.Timeline.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.AIModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.ARModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.DSPGraphModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.DSPGraphModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.DSPGraphModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.GridModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.InputLegacyModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.InputLegacyModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.InputLegacyModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.InputModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.SubsystemsModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.SubsystemsModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.SubsystemsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UI.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UIModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.VRModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.WindModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Managed\UnityEngine.XRModule.dll
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Resources\unity default
+      resources
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Resources\unity default resources
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Resources\unity default
+      resources
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\Resources\unity_builtin_extra
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\Resources\unity_builtin_extra
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\Resources\unity_builtin_extra
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\sharedassets0.assets
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\sharedassets0.assets
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\sharedassets0.assets.resS
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\sharedassets0.assets.resS
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\sharedassets1.assets
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\sharedassets1.assets
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\sharedassets1.assets.resS
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\sharedassets1.assets.resS
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\sharedassets1.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\sharedassets2.assets
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\sharedassets2.assets
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\sharedassets2.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\sharedassets2.assets.resS
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\sharedassets2.assets.resS
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\sharedassets2.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\sharedassets2.resource
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\sharedassets2.resource
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\sharedassets2.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\sharedassets3.assets
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\sharedassets3.assets
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\sharedassets3.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\Extreme Street Crosser_Data\sharedassets3.assets.resS
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\Extreme
+      Street Crosser_Data\sharedassets3.assets.resS
+    projectPath: Temp\StagingArea\Extreme Street Crosser_Data\sharedassets3.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    projectPath: Temp\StagingArea\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    projectPath: Temp\StagingArea\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\machine.config
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\machine.config
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\machine.config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\settings.map
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\settings.map
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\settings.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\web.config
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\web.config
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\2.0\web.config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\machine.config
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\machine.config
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\machine.config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\settings.map
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\settings.map
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\settings.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\web.config
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\web.config
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\4.0\web.config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\machine.config
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\machine.config
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\machine.config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\settings.map
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\settings.map
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\settings.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\web.config
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\web.config
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\4.5\web.config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\browscap.ini
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\browscap.ini
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\browscap.ini
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\config
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\config
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    projectPath: Temp\StagingArea\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\UnityCrashHandler64.exe
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\UnityCrashHandler64.exe
+    projectPath: Temp\StagingArea\UnityCrashHandler64.exe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\StagingArea\UnityPlayer.dll
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\StagingArea\UnityPlayer.dll
+    projectPath: Temp\StagingArea\UnityPlayer.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\Temp\tempFile.res
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\tempFile.res
     projectPath: Temp\tempFile.res
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\Temp\tempFile.resG
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\tempFile.resG
     projectPath: Temp\tempFile.resG
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\Temp\UnityLockfile
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\Temp\UnityTempFile-027cb7e3661c61841981687bfb89db2f
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-027cb7e3661c61841981687bfb89db2f
+    projectPath: Temp\UnityTempFile-027cb7e3661c61841981687bfb89db2f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1016,11 +1444,113 @@ MonoBehaviour:
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-04e58214d370ec94d8006a2626e4c5b7
     projectPath: Temp\UnityTempFile-04e58214d370ec94d8006a2626e4c5b7
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-16156e7006c822a4796738c6d9ad30c6
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-16156e7006c822a4796738c6d9ad30c6
+    projectPath: Temp\UnityTempFile-16156e7006c822a4796738c6d9ad30c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-18d06e8b7574d084fa67c0e45f4f9b7d
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-18d06e8b7574d084fa67c0e45f4f9b7d
+    projectPath: Temp\UnityTempFile-18d06e8b7574d084fa67c0e45f4f9b7d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-1ec9e4341fc1da64da53072a6e355e79
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-1ec9e4341fc1da64da53072a6e355e79
+    projectPath: Temp\UnityTempFile-1ec9e4341fc1da64da53072a6e355e79
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-241e70dfd209c6a4b92ab8ef7cf4d2b7
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-241e70dfd209c6a4b92ab8ef7cf4d2b7
+    projectPath: Temp\UnityTempFile-241e70dfd209c6a4b92ab8ef7cf4d2b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-273a58e5265f0a7418c7a31b15df3d92
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-273a58e5265f0a7418c7a31b15df3d92
+    projectPath: Temp\UnityTempFile-273a58e5265f0a7418c7a31b15df3d92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-27e5629f2476e854c8b2c916327855f9
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-27e5629f2476e854c8b2c916327855f9
+    projectPath: Temp\UnityTempFile-27e5629f2476e854c8b2c916327855f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-2eb99cc5481d1e947942852f312b2e08
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-2eb99cc5481d1e947942852f312b2e08
+    projectPath: Temp\UnityTempFile-2eb99cc5481d1e947942852f312b2e08
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-41d47e67df6db3a40bf21ebc125a938e
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-41d47e67df6db3a40bf21ebc125a938e
+    projectPath: Temp\UnityTempFile-41d47e67df6db3a40bf21ebc125a938e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-4f0323e935926b14da9d12e154a97bc7
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-4f0323e935926b14da9d12e154a97bc7
+    projectPath: Temp\UnityTempFile-4f0323e935926b14da9d12e154a97bc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-5577612e579da5e43baef397bbb7c658
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-5577612e579da5e43baef397bbb7c658
+    projectPath: Temp\UnityTempFile-5577612e579da5e43baef397bbb7c658
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-55fab78170cf4fc42a9de4681c551f97
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-55fab78170cf4fc42a9de4681c551f97
+    projectPath: Temp\UnityTempFile-55fab78170cf4fc42a9de4681c551f97
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-585adbb0d59482941b479f34488d6d89
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-585adbb0d59482941b479f34488d6d89
+    projectPath: Temp\UnityTempFile-585adbb0d59482941b479f34488d6d89
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-5a6b7e07ac9466b4c8461273ace0b61d
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-5a6b7e07ac9466b4c8461273ace0b61d
+    projectPath: Temp\UnityTempFile-5a6b7e07ac9466b4c8461273ace0b61d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-5e5686de38df84442b2023b37018e169
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-5e5686de38df84442b2023b37018e169
+    projectPath: Temp\UnityTempFile-5e5686de38df84442b2023b37018e169
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-670e6927e0c995844b06c6b06a8ccc75
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-670e6927e0c995844b06c6b06a8ccc75
+    projectPath: Temp\UnityTempFile-670e6927e0c995844b06c6b06a8ccc75
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Code\Temp\UnityTempFile-6d65dd68fbd79b84ea762b51310f0bd3
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-6d65dd68fbd79b84ea762b51310f0bd3
     projectPath: Temp\UnityTempFile-6d65dd68fbd79b84ea762b51310f0bd3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-7c4e7fdad854e5041a3e345fc27afeab
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-7c4e7fdad854e5041a3e345fc27afeab
+    projectPath: Temp\UnityTempFile-7c4e7fdad854e5041a3e345fc27afeab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-7d83610968fd4e04bbcce886f03b0a4b
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-7d83610968fd4e04bbcce886f03b0a4b
+    projectPath: Temp\UnityTempFile-7d83610968fd4e04bbcce886f03b0a4b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1028,11 +1558,65 @@ MonoBehaviour:
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-8447c332b7cc411479eca81a6d895264
     projectPath: Temp\UnityTempFile-8447c332b7cc411479eca81a6d895264
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-859aaab0834c17a4e8239f9101100ed1
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-859aaab0834c17a4e8239f9101100ed1
+    projectPath: Temp\UnityTempFile-859aaab0834c17a4e8239f9101100ed1
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-8840615b70c1418489d8c50a12561872
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-8840615b70c1418489d8c50a12561872
+    projectPath: Temp\UnityTempFile-8840615b70c1418489d8c50a12561872
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-89b22f9c0991bd44584bfd1773c750c3
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-89b22f9c0991bd44584bfd1773c750c3
+    projectPath: Temp\UnityTempFile-89b22f9c0991bd44584bfd1773c750c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-95ad82f6d08199e409813acccdaee572
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-95ad82f6d08199e409813acccdaee572
+    projectPath: Temp\UnityTempFile-95ad82f6d08199e409813acccdaee572
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-a998c49a3b5e1fd41ad71214faadaace
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-a998c49a3b5e1fd41ad71214faadaace
+    projectPath: Temp\UnityTempFile-a998c49a3b5e1fd41ad71214faadaace
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-adcc94602a9c65f40bd5ebd914ce56dd
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-adcc94602a9c65f40bd5ebd914ce56dd
+    projectPath: Temp\UnityTempFile-adcc94602a9c65f40bd5ebd914ce56dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-b4ebc63bfcaa7ee4ab44d517d17f386e
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-b4ebc63bfcaa7ee4ab44d517d17f386e
+    projectPath: Temp\UnityTempFile-b4ebc63bfcaa7ee4ab44d517d17f386e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\Temp\UnityTempFile-b9d383f6d05cf974d8cbe4b2defd0378
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-b9d383f6d05cf974d8cbe4b2defd0378
     projectPath: Temp\UnityTempFile-b9d383f6d05cf974d8cbe4b2defd0378
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-bfd8ee4d47987cd47aad20fc909b41e8
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-bfd8ee4d47987cd47aad20fc909b41e8
+    projectPath: Temp\UnityTempFile-bfd8ee4d47987cd47aad20fc909b41e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-c02abc0fd38abf240a6bba85e3b3624f
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-c02abc0fd38abf240a6bba85e3b3624f
+    projectPath: Temp\UnityTempFile-c02abc0fd38abf240a6bba85e3b3624f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1040,17 +1624,65 @@ MonoBehaviour:
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-c0f6c7cff168db444919413b7dd58f5f
     projectPath: Temp\UnityTempFile-c0f6c7cff168db444919413b7dd58f5f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-cab2caf061999d445a6fde0b740c7c06
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-cab2caf061999d445a6fde0b740c7c06
+    projectPath: Temp\UnityTempFile-cab2caf061999d445a6fde0b740c7c06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\Temp\UnityTempFile-ceb723f97d6664f4581f494bb6293832
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-ceb723f97d6664f4581f494bb6293832
     projectPath: Temp\UnityTempFile-ceb723f97d6664f4581f494bb6293832
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-d58608b385e2e234ab6bb3cd663740fe
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-d58608b385e2e234ab6bb3cd663740fe
+    projectPath: Temp\UnityTempFile-d58608b385e2e234ab6bb3cd663740fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-de1f3ce80c7e2874691f5a8fabe5c28c
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-de1f3ce80c7e2874691f5a8fabe5c28c
+    projectPath: Temp\UnityTempFile-de1f3ce80c7e2874691f5a8fabe5c28c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-e053020e9ab908b4f8310d964542e8c7
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-e053020e9ab908b4f8310d964542e8c7
+    projectPath: Temp\UnityTempFile-e053020e9ab908b4f8310d964542e8c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-e0849961ba667344dbdd6751318d0ddc
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-e0849961ba667344dbdd6751318d0ddc
+    projectPath: Temp\UnityTempFile-e0849961ba667344dbdd6751318d0ddc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-eb948540fd9ee474ca9cb1243a94d11d
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-eb948540fd9ee474ca9cb1243a94d11d
+    projectPath: Temp\UnityTempFile-eb948540fd9ee474ca9cb1243a94d11d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Code\Temp\UnityTempFile-f9ce1934c0e84f547a59a543a9fc96f4
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-f9ce1934c0e84f547a59a543a9fc96f4
     projectPath: Temp\UnityTempFile-f9ce1934c0e84f547a59a543a9fc96f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\Temp\UnityTempFile-f9fde75cc30b8e943addfa1f16bb0e79
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-f9fde75cc30b8e943addfa1f16bb0e79
+    projectPath: Temp\UnityTempFile-f9fde75cc30b8e943addfa1f16bb0e79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\Temp\UnityTempFile-fcdbe9d573feb31468aa32ddc6277ff9
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-fcdbe9d573feb31468aa32ddc6277ff9
+    projectPath: Temp\UnityTempFile-fcdbe9d573feb31468aa32ddc6277ff9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

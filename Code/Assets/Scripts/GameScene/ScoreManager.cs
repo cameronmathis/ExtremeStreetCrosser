@@ -22,6 +22,50 @@ public class ScoreManager : MonoBehaviour
     // Store the score when the scene is deleted
     void OnDisable()
     {
-        PlayerPrefs.SetInt("score", score);
+        // store the previous attempts score
+        PlayerPrefs.SetInt("previousScore", score);
+        // check is the previous attempt is a new high score
+        bool isLeaderboardFull = true;
+        for (int i = 7; i >= 0; i--)
+        {
+            if (!PlayerPrefs.HasKey("highName" + 0) && !PlayerPrefs.HasKey("highScore" + 0))
+            {
+                PlayerPrefs.SetString("highName" + 0, "temp");
+                PlayerPrefs.SetInt("highScore" + 0, score);
+                break;
+            }
+            else if (!PlayerPrefs.HasKey("highName" + i) && !PlayerPrefs.HasKey("highScore" + i))
+            {
+                isLeaderboardFull = false;
+                continue;
+            }
+            else
+            {
+                for (int ii = i; ii >= 0; ii--)
+                {
+                    if (score > PlayerPrefs.GetInt("highScore" + ii))
+                    {
+                        if (ii < 7)
+                        {
+                            string nameToMoveDown = PlayerPrefs.GetString("highName" + ii);
+                            PlayerPrefs.SetString("highName" + (ii + 1), nameToMoveDown);
+
+                            int scoreToMoveDown = PlayerPrefs.GetInt("highScore" + ii);
+                            PlayerPrefs.SetInt("highScore" + (ii + 1), scoreToMoveDown);
+                        }
+                        PlayerPrefs.SetString("highName" + ii, "temp");
+                        PlayerPrefs.SetInt("highScore" + ii, score);
+                        continue;
+                    }
+                    else if (!isLeaderboardFull)
+                    {
+                        PlayerPrefs.SetString("highName" + (i + 1), "temp");
+                        PlayerPrefs.SetInt("highScore" + (i + 1), score);
+                    }
+                    break;
+                }
+                break;
+            }
+        }
     }
 }

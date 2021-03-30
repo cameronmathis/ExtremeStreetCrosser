@@ -37,11 +37,11 @@ Implemented:
 * Obstacles
 
 Work-in-Progress:
+* Local Leaderboard
 
 Future Features:
 * Cross Walks
 * Smooth Transition between Start and Instruction Scenes
-* Local Leaderboard
 * Global Leaderboard
 
 ## Status

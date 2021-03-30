@@ -6,6 +6,7 @@ public class GameOverSceneController : MonoBehaviour
 {
     public Text scoreText;
     public Text timeText;
+    public Button leaderboardsButton;
     public Button playAgainButton;
     public Button exitButton;
 
@@ -20,8 +21,11 @@ public class GameOverSceneController : MonoBehaviour
 
         timeText.GetComponent<Text>().text = "Time: " + time;
 
+        leaderboardsButton.GetComponentInChildren<Text>().text = "Leaderboards";
+        leaderboardsButton.onClick.AddListener(loaderboardsScene);
+
         playAgainButton.GetComponentInChildren<Text>().text = "Play Again";
-        playAgainButton.onClick.AddListener(nextScene);
+        playAgainButton.onClick.AddListener(gameScene);
 
         exitButton.GetComponentInChildren<Text>().text = "Exit";
         exitButton.onClick.AddListener(endGame);
@@ -33,8 +37,14 @@ public class GameOverSceneController : MonoBehaviour
 
     }
 
+    // Load the LeaderboardsScene
+    void loaderboardsScene()
+    {
+        SceneManager.LoadScene("LeaderboardsScene");
+    }
+
     // Load the GameScene
-    void nextScene()
+    void gameScene()
     {
         SceneManager.LoadScene("GameScene");
     }
@@ -48,7 +58,7 @@ public class GameOverSceneController : MonoBehaviour
     // Retrieve score and from deleted scene
     void OnEnable()
     {
-        score = PlayerPrefs.GetInt("score");
+        score = PlayerPrefs.GetInt("previousScore");
         time = PlayerPrefs.GetString("time");
     }
 }
