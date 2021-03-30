@@ -8,7 +8,8 @@ None
 
 | Version       | Supported          |
 | ------------- | ------------------ |
-| 1.3.0 Alpha   | :white_check_mark: |
+| 1.4.0 Alpha   | :white_check_mark: |
+| 1.3.0 Alpha   | :x:                |
 | 1.2.0 Alpha   | :x:                |
 | 1.1.1 Alpha   | :x:                |
 | 1.1.0 Alpha   | :x:                |

@@ -36,9 +36,9 @@ Implemented:
 * Points
 * Music/Audio
 * Obstacles
+* Local Leaderboard
 
 Work-in-Progress:
-* Local Leaderboard
 
 Future Features:
 * Cross Walks
@@ -46,7 +46,7 @@ Future Features:
 * Global Leaderboard
 
 ## Status
-Version: 1.3.0 Alpha</br>
+Version: 1.4.0 Alpha</br>
 Project is: _in progress_
 
 ## Security Policy
@@ -55,8 +55,8 @@ Project is: _in progress_
 
 | Version       | Supported          |
 | ------------- | ------------------ |
-| 1.3.0 Alpha   | :white_check_mark: |
-| 1.2.0 Alpha   | :x:                |
+| 1.4.0 Alpha   | :white_check_mark: |
+| 1.3.0 Alpha   | :x:                |
 
 ### Reporting a Vulnerability
 

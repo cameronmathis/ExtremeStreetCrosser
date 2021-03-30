@@ -25,12 +25,13 @@ public class ScoreManager : MonoBehaviour
         // store the previous attempts score
         PlayerPrefs.SetInt("previousScore", score);
         // check is the previous attempt is a new high score
+        string name = PlayerPrefs.GetString("name");
         bool isLeaderboardFull = true;
         for (int i = 7; i >= 0; i--)
         {
             if (!PlayerPrefs.HasKey("highName" + 0) && !PlayerPrefs.HasKey("highScore" + 0))
             {
-                PlayerPrefs.SetString("highName" + 0, "temp");
+                PlayerPrefs.SetString("highName" + 0, name);
                 PlayerPrefs.SetInt("highScore" + 0, score);
                 break;
             }
@@ -53,13 +54,13 @@ public class ScoreManager : MonoBehaviour
                             int scoreToMoveDown = PlayerPrefs.GetInt("highScore" + ii);
                             PlayerPrefs.SetInt("highScore" + (ii + 1), scoreToMoveDown);
                         }
-                        PlayerPrefs.SetString("highName" + ii, "temp");
+                        PlayerPrefs.SetString("highName" + ii, name);
                         PlayerPrefs.SetInt("highScore" + ii, score);
                         continue;
                     }
                     else if (!isLeaderboardFull)
                     {
-                        PlayerPrefs.SetString("highName" + (i + 1), "temp");
+                        PlayerPrefs.SetString("highName" + (i + 1), name);
                         PlayerPrefs.SetInt("highScore" + (i + 1), score);
                     }
                     break;
