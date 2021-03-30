@@ -1,5 +1,9 @@
 # Security Policy
 
+## Known Vulnerabilities
+
+None
+
 ## Supported Versions
 
 | Version       | Supported          |
