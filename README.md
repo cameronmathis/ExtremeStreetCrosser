@@ -57,13 +57,12 @@ Project is: _in progress_
 | ------------- | ------------------ |
 | 1.3.0 Alpha   | :white_check_mark: |
 | 1.2.0 Alpha   | :x:                |
-| 1.1.1 Alpha   | :x:                |
-| 1.1.0 Alpha   | :x:                |
-| 1.0.0 Alpha   | :x:                |
 
 ### Reporting a Vulnerability
 
-If you find a security vulnerability, please report it under the [Issues](https://github.com/cameronmathis/ExtremeStreetCrosser/issues) tab of this repository and flag it as "security issue".
+If you find a security vulnerability, please report it under the [Issues](https://github.com/cameronmathis/ExtremeStreetCrosser/issues) tab of this repository and flag it as "security issue". </br>
+
+_For more security details visit the [Security Policy File](https://github.com/cameronmathis/ExtremeStreetCrosser/edit/main/SECURITY.md)_
 
 ## Language Details
 Language used: Unity </br>
