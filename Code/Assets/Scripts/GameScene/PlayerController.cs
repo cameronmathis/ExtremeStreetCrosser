@@ -10,7 +10,6 @@ public class PlayerController : MonoBehaviour
     private float jumpForce = 3.0f;
     private bool isOnGround = true;
 
-    private float xRange = 10.0f;
     private float zTopRange = -4.5f;
     private float zBottomRange = -12.5f;
 
@@ -98,15 +97,15 @@ public class PlayerController : MonoBehaviour
     void checkBounds()
     {
         // check left bound
-        if (transform.position.x > xRange)
+        if (transform.position.x > calculateXRange(transform.position.z))
         {
-            transform.position = new Vector3(xRange, transform.position.y, transform.position.z);
+            transform.position = new Vector3(calculateXRange(transform.position.z), transform.position.y, transform.position.z);
         }
 
         // check right bound
-        if (transform.position.x < -xRange)
+        if (transform.position.x < -calculateXRange(transform.position.z))
         {
-            transform.position = new Vector3(-xRange, transform.position.y, transform.position.z);
+            transform.position = new Vector3(-calculateXRange(transform.position.z), transform.position.y, transform.position.z);
         }
 
         // check top bound
@@ -120,6 +119,14 @@ public class PlayerController : MonoBehaviour
         {
             transform.position = new Vector3(transform.position.x, transform.position.y, zBottomRange);
         }
+    }
+
+    // Calculate the x range given the z position
+    float calculateXRange(float z)
+    {
+        float result = (z + 34.5f) / 2.0f;
+
+        return result;
     }
 
     // Check for a collision

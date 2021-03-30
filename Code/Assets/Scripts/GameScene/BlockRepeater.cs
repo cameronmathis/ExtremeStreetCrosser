@@ -57,7 +57,7 @@ public class BlockRepeater : MonoBehaviour
         {
             // update score
             scoreManagerScript.score++;
-            // destroy old block
+            // destroy block
             Destroy(gameObject);
         }
 

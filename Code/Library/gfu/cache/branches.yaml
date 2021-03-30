@@ -13,16 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-03-30T11:06:33.718-05:00
-  initializedAtString: 2021-03-30T11:06:33.658-05:00
+  lastUpdatedAtString: 2021-03-30T12:20:24.042-05:00
+  initializedAtString: 2021-03-30T12:20:21.519-05:00
   localBranches:
   - name: 1.2.1-Alpha
     tracking: origin/1.2.1-Alpha
   - name: main
     tracking: origin/main
   remoteBranches:
-  - name: origin/1.2.1-Alpha
-    tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/main
@@ -55,16 +53,10 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - 1.2.1-Alpha
       - HEAD
       - main
     subKeyValues:
     - Values:
-      - name: 1.2.1-Alpha
-        remote:
-          name: origin
-          url: https://github.com/cameronmathis/ExtremeStreetCrosser
-        trackingBranch: 
       - name: HEAD
         remote:
           name: origin

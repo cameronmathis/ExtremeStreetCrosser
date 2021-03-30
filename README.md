@@ -34,19 +34,18 @@ Implemented:
 * Start Screen
 * Points
 * Music/Audio
+* Obstacles
 
 Work-in-Progress:
 
 Future Features:
 * Cross Walks
-* Pot Holes
-* Construction Cites
 * Smooth Transition between Start and Instruction Scenes
 * Local Leaderboard
 * Global Leaderboard
 
 ## Status
-Version: 1.2.1 Alpha</br>
+Version: 1.3.0 Alpha</br>
 Project is: _in progress_
 
 ## Language details

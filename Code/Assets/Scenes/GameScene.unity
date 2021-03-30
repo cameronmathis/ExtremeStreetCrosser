@@ -736,20 +736,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3976164537199471809, guid: 6ad672d237be59e4992f7a9a0ac991d7,
-        type: 3}
-      propertyPath: hasProducedDuplicate
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3976164537199471814, guid: 6ad672d237be59e4992f7a9a0ac991d7,
         type: 3}
       propertyPath: m_Name
       value: Block 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4061017836846887095, guid: 6ad672d237be59e4992f7a9a0ac991d7,
-        type: 3}
-      propertyPath: m_IsKinematic
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6ad672d237be59e4992f7a9a0ac991d7, type: 3}

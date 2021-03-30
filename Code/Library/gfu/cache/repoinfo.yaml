@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-03-30T10:55:17.350-05:00
-  initializedAtString: 2021-03-30T10:55:17.350-05:00
+  lastUpdatedAtString: 2021-03-30T12:48:55.344-05:00
+  initializedAtString: 2021-03-30T12:48:55.344-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/cameronmathis/ExtremeStreetCrosser
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: 1.2.1-Alpha
-    tracking: origin/1.2.1-Alpha
+    name: main
+    tracking: origin/main
   currentConfigBranch:
-    name: 1.2.1-Alpha
+    name: main
     remote:
       name: origin
       url: https://github.com/cameronmathis/ExtremeStreetCrosser
-    trackingBranch: 1.2.1-Alpha
+    trackingBranch: main
   currentConfigRemote:
     name: origin
     url: https://github.com/cameronmathis/ExtremeStreetCrosser
