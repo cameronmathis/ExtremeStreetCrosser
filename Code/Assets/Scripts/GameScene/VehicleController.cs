@@ -3,6 +3,7 @@
 public class VehicleController : MonoBehaviour
 {
     private float movementSpeed = 6.0f;
+    private float playerMovementSpeed;
 
     private float xRange = 50.0f;
     private float zTopRange = -4.5f;
@@ -15,7 +16,7 @@ public class VehicleController : MonoBehaviour
     void Start()
     {
         playerControllerScript = GameObject.Find("Player").GetComponent<PlayerController>();
-        movementSpeed = playerControllerScript.movementSpeed;
+        playerMovementSpeed = playerControllerScript.movementSpeed;
         playerGameObject = GameObject.Find("Player");
     }
 
@@ -24,7 +25,7 @@ public class VehicleController : MonoBehaviour
     {
         if (!playerControllerScript.gameOver)
         {
-            movementSpeed = playerControllerScript.movementSpeed;
+            playerMovementSpeed = playerControllerScript.movementSpeed;
             move();
             checkBounds();
         }
@@ -39,7 +40,9 @@ public class VehicleController : MonoBehaviour
             moveVertical = Input.GetAxisRaw("Vertical");
         }
         Vector3 movement = new Vector3(3.0f * (transform.rotation.y / 0.7071068f), 0.0f, -moveVertical);
-        transform.Translate(movement * movementSpeed * Time.deltaTime, Space.World);
+        movement.x = movement.x * movementSpeed;
+        movement.z = movement.z * playerMovementSpeed;
+        transform.Translate(movement * Time.deltaTime, Space.World);
     }
 
     // Delete the vehicle once it is off screen

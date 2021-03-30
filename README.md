@@ -33,9 +33,9 @@ Implemented:
 * Death
 * Start Screen
 * Points
+* Music/Audio
 
 Work-in-Progress:
-* Music/Audio
 
 Future Features:
 * Cross Walks
@@ -46,7 +46,7 @@ Future Features:
 * Global Leaderboard
 
 ## Status
-Version: 1.2.0 Alpha</br>
+Version: 1.2.1 Alpha</br>
 Project is: _in progress_
 
 ## Language details
