@@ -172,6 +172,7 @@ GameObject:
   - component: {fileID: 3040973486983247527}
   - component: {fileID: 3040973486983247524}
   - component: {fileID: 3040973486983247525}
+  - component: {fileID: -6221179249284138001}
   m_Layer: 0
   m_Name: RightTaxi
   m_TagString: Vehicle
@@ -239,6 +240,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1cc068128cf56814daf568cf22a61ee7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-6221179249284138001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3041738092846499145}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88a21309a7e50b4da57646cb687518d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hasProducedDuplicate: 0
 --- !u!1 &3042021597496285011
 GameObject:
   m_ObjectHideFlags: 0

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2300000}
   - component: {fileID: 7220565077824372569}
   - component: {fileID: 8585079199911877519}
-  - component: {fileID: 3512107223563693907}
+  - component: {fileID: -8222446887826533472}
   m_Layer: 0
   m_Name: TrafficBarrier
   m_TagString: Obstacle
@@ -111,7 +111,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 118
   m_CollisionDetection: 0
---- !u!114 &3512107223563693907
+--- !u!114 &-8222446887826533472
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -120,6 +120,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 100000}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e66866d8991278247ae9ae76facb4ab5, type: 3}
+  m_Script: {fileID: 11500000, guid: b88a21309a7e50b4da57646cb687518d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

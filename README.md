@@ -18,7 +18,7 @@ A Frogger-like Unity Application that allows children to practice safe street cr
 * [Developers](#Developers)
 
 ## General Info
-This is a project I collaborated on for my Game Design and Development class. I ended up enjoying it so much that I continued work on it even after I graduated. It is built for Windows x86 and x64 platforms. Feel free to pull the projcet down and tinker around with it!
+This is a project I collaborated on for my Game Design and Development class. I ended up enjoying it so much that I continued work on it even after I graduated. It is built for Windows x86 and x64 platforms. Feel free to pull the project down and tinker around with it!
 
 ## Setup
 The easiest way to begin playing Extreme Street Crosser is to download and use the "ExtremeStreetCrosserInstaller" [application](https://github.com/cameronmathis/ExtremeStreetCrosser/blob/main/ExtremeStreetCrosserInstaller.exe). If you want to play another version, you can head to the [releases page](https://github.com/cameronmathis/ExtremeStreetCrosser/releases) and choose your desired installer. </br>
@@ -27,26 +27,25 @@ Another way to play the latest version is to clone this repo onto your local mac
 ## Features
 ### Implemented:
 * Installer
-* Player Movement
-* Street Generation
-* Car Movement
-* Randomly Spawning Cars
-* Death
 * Start Screen
-* Points
+* Player Movement
+* Vehicle Movement
+* Randomly Spawn Vehicles
+* Randomly Spawn Obstacles
 * Music/Audio
-* Obstacles
+* Death
+* Timer
+* Points
 * Local Leaderboard
 
 ### Work-in-Progress:
 
 ### Future Features:
 * Cross Walks
-* Smooth Transition between Start and Instruction Scenes
 * Global Leaderboard
 
 ## Status
-Version: 1.4.0 Alpha</br>
+Version: 1.4.1 Alpha</br>
 Project is: _in progress_
 
 ## Security Policy
@@ -55,8 +54,8 @@ Project is: _in progress_
 
 | Version       | Supported          |
 | ------------- | ------------------ |
-| 1.4.0 Alpha   | :white_check_mark: |
-| 1.3.0 Alpha   | :x:                |
+| 1.4.1 Alpha   | :white_check_mark: |
+| 1.4.0 Alpha   | :x:                |
 
 ### Reporting a Vulnerability
 

@@ -412,6 +412,7 @@ GameObject:
   - component: {fileID: 8030539217058095006}
   - component: {fileID: 8030539217058095001}
   - component: {fileID: 8030539217058095000}
+  - component: {fileID: -7980155703615235614}
   m_Layer: 0
   m_Name: RightPoliceCar
   m_TagString: Vehicle
@@ -479,3 +480,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1cc068128cf56814daf568cf22a61ee7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-7980155703615235614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8032149274465725560}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88a21309a7e50b4da57646cb687518d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hasProducedDuplicate: 0

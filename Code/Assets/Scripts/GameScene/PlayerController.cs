@@ -5,10 +5,10 @@ public class PlayerController : MonoBehaviour
 {
     public float movementSpeed = 6.0f;
     private float lockedHorizontal = 0.0f;
-    private float lockedVertical = 0.0f;
+    public float lockedVertical = 0.0f;
 
     private float jumpForce = 3.0f;
-    private bool isOnGround = true;
+    public bool isOnGround = true;
 
     private float zTopRange = -4.5f;
     private float zBottomRange = -12.5f;
@@ -20,7 +20,6 @@ public class PlayerController : MonoBehaviour
 
     private AudioSource playerAudio;
     private AudioSource gameAudio;
-    private float audioVolume = 0.5f;
     public AudioClip jumpSound;
     public AudioClip crossWalkSound;
     public AudioClip gameOverSound;
@@ -133,7 +132,7 @@ public class PlayerController : MonoBehaviour
     private void OnCollisionEnter(Collision collision)
     {
 
-        if (collision.gameObject.CompareTag("Road"))
+        if (collision.gameObject.CompareTag("Road") || collision.gameObject.CompareTag("Obstacle"))
         {
             movementSpeed = 6.0f;
             isOnGround = true;

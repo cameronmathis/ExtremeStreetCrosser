@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2300000}
   - component: {fileID: 7827007160935162960}
   - component: {fileID: 7968997841102565896}
-  - component: {fileID: 8381026636143636625}
+  - component: {fileID: 6591482143984151374}
   m_Layer: 0
   m_Name: FireHydrant
   m_TagString: Obstacle
@@ -111,7 +111,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 118
   m_CollisionDetection: 0
---- !u!114 &8381026636143636625
+--- !u!114 &6591482143984151374
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -120,6 +120,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 100000}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e66866d8991278247ae9ae76facb4ab5, type: 3}
+  m_Script: {fileID: 11500000, guid: b88a21309a7e50b4da57646cb687518d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
