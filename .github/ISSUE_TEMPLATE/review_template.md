@@ -3,6 +3,7 @@ name: Review
 about: Review of the product
 title: ''
 labels: review
+projects: Reviews
 
 ---
 
