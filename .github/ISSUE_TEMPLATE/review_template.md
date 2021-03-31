@@ -2,7 +2,7 @@
 name: Review
 about: Review of the product
 title: ''
-labels: Review
+labels: review
 
 ---
 
