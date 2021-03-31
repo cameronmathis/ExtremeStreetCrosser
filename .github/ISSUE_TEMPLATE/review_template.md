@@ -1,9 +1,13 @@
 ---
-Name: _Optional_
-Title: ''
-Rating: ?/5 stars
-Labels: review
+name: Review
+about: Review of the product
+title: ''
+labels: Review
+
 ---
+
+**Rating** </br>
+?/5 stars
 
 **Review Body** </br>
 _Optional_
