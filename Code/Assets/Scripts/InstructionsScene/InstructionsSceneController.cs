@@ -16,7 +16,10 @@ public class InstructionsSceneController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKey(KeyCode.Return) || Input.GetKey(KeyCode.KeypadEnter))
+        {
+            nextScene();
+        }
     }
 
     // Load the GameScene
