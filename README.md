@@ -68,6 +68,6 @@ _For more security details visit the [Security Policy File](https://github.com/c
 ## Language Details
 Language used: Unity </br>
 Version used: 2019.4.20f1
-s
+
 ## Developers
 Created by [@cameronmathis](https://github.com/cameronmathis/), [@spencerdowney](https://github.com/spencerdowney), and [@PhilipSamuels4](https://github.com/PhilipSamuels4) - feel free to contact us!
