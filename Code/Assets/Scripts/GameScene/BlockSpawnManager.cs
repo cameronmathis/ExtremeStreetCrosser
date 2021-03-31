@@ -8,6 +8,8 @@ public class BlockSpawnManager : MonoBehaviour
     private float zBottomRange = -18.0f;
     private float duplicatePoint = 18.0f;
 
+    private bool hasAddedScore = false;
+
     private Vector3 spawnPos = new Vector3(0.0f, 0.0f, 26.85f);
 
     private PlayerController playerControllerScript;
@@ -34,12 +36,6 @@ public class BlockSpawnManager : MonoBehaviour
     // Check bounds
     void checkBounds()
     {
-        if (transform.position.z < zBottomRange)
-        {
-            // update score
-            scoreManagerScript.score++;
-        }
-
         if (transform.position.z < duplicatePoint && !hasProducedDuplicate)
         {
             // spawn new block
@@ -47,6 +43,13 @@ public class BlockSpawnManager : MonoBehaviour
             blockInstance.name = "Block";
 
             hasProducedDuplicate = true;
+        }
+
+        if (transform.position.z < zBottomRange && !hasAddedScore)
+        {
+            // update score
+            scoreManagerScript.score++;
+            hasAddedScore = true;
         }
     }
 }

@@ -37,15 +37,17 @@ Another way to play the latest version is to clone this repo onto your local mac
 * Timer
 * Points
 * Local Leaderboard
+* Settings
 
 ### Work-in-Progress:
 
 ### Future Features:
 * Cross Walks
 * Global Leaderboard
+* Difficulties
 
 ## Status
-Version: 1.4.1 Alpha</br>
+Version: 1.4.2 Alpha</br>
 Project is: _in progress_
 
 ## Security Policy
@@ -54,8 +56,8 @@ Project is: _in progress_
 
 | Version       | Supported          |
 | ------------- | ------------------ |
-| 1.4.1 Alpha   | :white_check_mark: |
-| 1.4.0 Alpha   | :x:                |
+| 1.4.2 Alpha   | :white_check_mark: |
+| 1.4.1 Alpha   | :x:                |
 
 ### Reporting a Vulnerability
 
@@ -66,6 +68,6 @@ _For more security details visit the [Security Policy File](https://github.com/c
 ## Language Details
 Language used: Unity </br>
 Version used: 2019.4.20f1
-
+s
 ## Developers
 Created by [@cameronmathis](https://github.com/cameronmathis/), [@spencerdowney](https://github.com/spencerdowney), and [@PhilipSamuels4](https://github.com/PhilipSamuels4) - feel free to contact us!

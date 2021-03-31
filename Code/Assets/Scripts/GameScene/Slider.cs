@@ -10,7 +10,7 @@ public class Slider : MonoBehaviour
     private bool isOnGround = true;
 
     private float zTopRange = -4.5f;
-    private float zBottomRange = -18.0f;
+    private float zBottomRange = -19.0f;
 
     private PlayerController playerControllerScript;
     private GameObject playerGameObject;
