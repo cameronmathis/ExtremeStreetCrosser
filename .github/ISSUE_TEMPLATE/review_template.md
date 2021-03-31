@@ -16,6 +16,6 @@ _Optional_
 **Review Body**
 _Optional_
 
-**Desktop (please complete the following information):**
+**Desktop:**
  - OS: [e.g. Windows]
  - Version [e.g. v1.4.1A]
