@@ -60,7 +60,7 @@ Project is: _in progress_
 
 ### Reporting a Vulnerability
 
-If you find a security vulnerability, please report it under the [Issues](https://github.com/cameronmathis/ExtremeStreetCrosser/issues) tab of this repository and flag it as "security issue". </br>
+If you find a security vulnerability, please report it under the [Issues](https://github.com/cameronmathis/ExtremeStreetCrosser/issues) tab of this repository and label it as "security issue". </br>
 
 _For more security details visit the [Security Policy File](https://github.com/cameronmathis/ExtremeStreetCrosser/blob/main/SECURITY.md)._
 
