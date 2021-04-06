@@ -41,15 +41,15 @@ Another way to play the latest version is to clone this repo onto your local mac
 * Settings
 
 ### Work-in-Progress:
+* Cross Walks
 
 ### Future Features:
-* Cross Walks
 * Global Leaderboard
 * Difficulties
 
 ## Status
-Version: 1.4.2 Alpha</br>
-Project is: _in progress_
+Version: 1.0.0 Beta</br>
+Project is: _testing_
 
 ## Security Policy
 
@@ -57,8 +57,8 @@ Project is: _in progress_
 
 | Version       | Supported          |
 | ------------- | ------------------ |
-| 1.4.2 Alpha   | :white_check_mark: |
-| 1.4.1 Alpha   | :x:                |
+| 1.0.0 Beta    | :white_check_mark: |
+| All Alphas    | :x:                |
 
 ### Reporting a Vulnerability
 

@@ -131,7 +131,6 @@ public class PlayerController : MonoBehaviour
     // Check for a collision
     private void OnCollisionEnter(Collision collision)
     {
-
         if (collision.gameObject.CompareTag("Road") || collision.gameObject.CompareTag("Obstacle"))
         {
             movementSpeed = 6.0f;
