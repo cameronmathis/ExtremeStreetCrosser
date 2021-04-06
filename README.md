@@ -7,7 +7,7 @@
 [![build:status](https://img.shields.io/badge/build-Passing-brightgreen)](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/LatestBuild)
 [![review](https://img.shields.io/badge/-Review-%236b81ef)](https://github.com/cameronmathis/ExtremeStreetCrosser/issues/new?assignees=&labels=review&template=review_template.md&title=)
 
-### Download [Windows Installer](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/main/Installers/ExtremeStreetCrosserWindowsInstaller.exe) or  [MacOS Installer](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/main/Installers/ExtremeStreetCrosserMacOSInstaller.exe)
+### Download [Windows Installer](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/main/Installers/ExtremeStreetCrosserWindowsInstaller.exe) or  [MacOS Installer](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/dev-branch/Installers/ExtremeStreetCrosserMacOSInstaller.dmg)
 
 ## Table of Contents
 * [General Info](#general-Info)
