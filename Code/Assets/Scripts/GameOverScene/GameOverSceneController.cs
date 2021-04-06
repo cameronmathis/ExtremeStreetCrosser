@@ -21,7 +21,7 @@ public class GameOverSceneController : MonoBehaviour
 
         timeText.GetComponent<Text>().text = "Time: " + time;
 
-        leaderboardsButton.GetComponentInChildren<Text>().text = "Leaderboards";
+        leaderboardsButton.GetComponentInChildren<Text>().text = "Leader Boards";
         leaderboardsButton.onClick.AddListener(loaderboardsScene);
 
         playAgainButton.GetComponentInChildren<Text>().text = "Play Again";
