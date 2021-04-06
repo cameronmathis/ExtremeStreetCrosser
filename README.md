@@ -7,7 +7,7 @@
 [![build:status](https://img.shields.io/badge/build-Passing-brightgreen)](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/LatestBuild)
 [![review](https://img.shields.io/badge/-Review-%236b81ef)](https://github.com/cameronmathis/ExtremeStreetCrosser/issues/new?assignees=&labels=review&template=review_template.md&title=)
 
-### Download [Windows Installer](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/main/Installers/ExtremeStreetCrosserWindowsInstaller.exe) or  [MacOS Installer](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/main/Installers/ExtremeStreetCrosserMacOSInstaller.exe)
+### Download [Windows Installer](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/main/Installers/ExtremeStreetCrosserWindowsInstaller.exe) or  [MacOS Installer](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/dev-branch/Installers/ExtremeStreetCrosserMacOSInstaller.dmg)
 
 ## Table of Contents
 * [General Info](#general-Info)
@@ -19,11 +19,11 @@
 * [Developers](#Developers)
 
 ## General Info
-Extreme Street Crosser is a Frogger-like Unity Application that allows children to practice safe street crossing. I collaborated on this project for my Game Design and Development class. I ended up enjoying it so much that I continued work on it even after I graduated. It is built for Windows x86 and x64 platforms (but MacOS support is coming). Feel free to pull the project down and tinker around with it!
+Extreme Street Crosser is a Frogger-like Unity Application that allows children to practice safe street crossing. I collaborated on this project for my Game Design and Development class. I ended up enjoying it so much that I continued work on it even after I graduated. It is built for Windows and MacOS platforms. Feel free to pull the project down and tinker around with it!
 
 ## Setup
 The easiest way to begin playing Extreme Street Crosser is to download and use your operating system's installer application by clicking the link above. If you want to play another version, you can head to the [releases page](https://github.com/cameronmathis/ExtremeStreetCrosser/releases) and choose your desired installer. </br> </br>
-Another way to play the latest version is to clone this repo onto your local machine. From there, open the "LatestBuild" [folder](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/LatestBuild) then choose your operating system and double click the "Extreme Street Crosser" application file to begin playing. To play another version, open the "AllBuilds" [folder](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/AllBuilds) and then open the folder of the build you want to run. Once the specific build folder is open, double click the "Extreme Street Crosser" application file to begin playing. <br/>
+Another way to play the latest version is to clone this repo onto your local machine. From there, open the "LatestBuild" [folder](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/LatestBuild) then choose your operating system and double click the "Extreme Street Crosser" application file to begin playing. To play another version, open the "AllBuilds" [folder](https://github.com/cameronmathis/ExtremeStreetCrosser/tree/main/AllBuilds) and then choose the build you want to run. <br/>
 
 ## Features
 ### Implemented:
@@ -37,19 +37,19 @@ Another way to play the latest version is to clone this repo onto your local mac
 * Death
 * Timer
 * Points
-* Local Leaderboard
+* Local Leader board
 * Settings
 
 ### Work-in-Progress:
-* Cross Walks
+* Crosswalks
 
 ### Future Features:
-* Global Leaderboard
+* Global Leader board
 * Difficulties
 
 ## Status
-Version: 1.0.0 Beta</br>
-Project is: _testing_
+Version: 1.5.0 Alpha</br>
+Project is: _in progress_
 
 ## Security Policy
 
@@ -58,7 +58,7 @@ Project is: _testing_
 | Version          | Supported          |
 | ---------------- | ------------------ |
 | 1.0.0 Beta       | Coming soon        |
-| 1.4.3 Alpha      | :white_check_mark: |
+| 1.5.0 Alpha      | :white_check_mark: |
 | All Other Alphas | :x:                |
 
 ### Reporting a Vulnerability

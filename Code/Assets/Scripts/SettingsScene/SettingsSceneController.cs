@@ -18,7 +18,7 @@ public class SettingsSceneController : MonoBehaviour
         easyModeButton.onClick.AddListener(easyMode);
         hardModeButton.GetComponentInChildren<Text>().text = "Hard Mode";
         hardModeButton.onClick.AddListener(hardMode);
-        clearLocalLeaderboardButton.GetComponentInChildren<Text>().text = "Clear Leaderboard";
+        clearLocalLeaderboardButton.GetComponentInChildren<Text>().text = "Clear Leader Board";
         clearLocalLeaderboardButton.onClick.AddListener(clearLocalLeaderboard);
         backButton.GetComponentInChildren<Text>().text = "Back";
         backButton.onClick.AddListener(startScene);
