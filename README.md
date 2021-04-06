@@ -56,10 +56,11 @@ Project is: _testing_
 
 ### Supported Versions
 
-| Version       | Supported          |
-| ------------- | ------------------ |
-| 1.0.0 Beta    | :white_check_mark: |
-| All Alphas    | :x:                |
+| Version          | Supported          |
+| ---------------- | ------------------ |
+| 1.0.0 Beta       | Coming soon        |
+| 1.4.3 Alpha      | :white_check_mark: |
+| All Other Alphas | :x:                |
 
 ### Reporting a Vulnerability
 

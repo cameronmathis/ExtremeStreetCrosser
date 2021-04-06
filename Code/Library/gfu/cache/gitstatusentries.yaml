@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-04-06T14:54:50.282-05:00
-  initializedAtString: 2021-04-06T14:54:48.785-05:00
+  lastUpdatedAtString: 2021-04-06T16:44:04.364-05:00
+  initializedAtString: 2021-04-06T16:44:04.364-05:00
   entries:
   - path: Code\Library\ArtifactDB
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\ArtifactDB
@@ -22,33 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Code\Library\Artifacts\e1\e15afcd0387b3b6926ba92d84f7921f2
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\Artifacts\e1\e15afcd0387b3b6926ba92d84f7921f2
-    projectPath: Library\Artifacts\e1\e15afcd0387b3b6926ba92d84f7921f2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Code\Library\EditorInstance.json
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -58,33 +34,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Code\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Code\Library\SourceAssetDB
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Code\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Code\Temp\UnityLockfile
     fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Code\Temp\UnityTempFile-f8768becc708e0341935d17a25334777
-    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Code\Temp\UnityTempFile-f8768becc708e0341935d17a25334777
-    projectPath: Temp\UnityTempFile-f8768becc708e0341935d17a25334777
+  - path: Installers\ExtremeStreetCrosserWindowsInstaller.exe
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Installers\ExtremeStreetCrosserWindowsInstaller.exe
+    projectPath: ..\Installers\ExtremeStreetCrosserWindowsInstaller.exe
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
+  - path: Misc\ExtremeStreetCrosserInstallCreater.iit
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Misc\ExtremeStreetCrosserInstallCreater.iit
+    projectPath: ..\Misc\ExtremeStreetCrosserInstallCreater.iit
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Misc\Images\InvertedLogo.png
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Misc\Images\InvertedLogo.png
+    projectPath: ..\Misc\Images\InvertedLogo.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Misc\Images\Logo.ico
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Misc\Images\Logo.ico
+    projectPath: ..\Misc\Images\Logo.ico
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Misc\Images\Logo.png
+    fullPath: C:\Users\Cameron\Documents\CodeProjects\ExtremeStreetCrosser\Misc\Images\Logo.png
+    projectPath: ..\Misc\Images\Logo.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
