@@ -45,7 +45,7 @@ Another way to play the latest version is to clone this repo onto your local mac
 * Global Leader Board
 * Difficulties
 
-## Known Issues:
+### Known Issues:
 * MacOS Version Will Not Launch
 
 ## Status
