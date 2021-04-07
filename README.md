@@ -55,11 +55,10 @@ Project is: _Testing_
 
 ### Supported Versions
 
-| Version          | Supported          |
-| ---------------- | ------------------ |
-| 1.0.0 Beta       | Coming soon        |
-| 1.5.0 Alpha      | :white_check_mark: |
-| All Other Alphas | :x:                |
+| Version    | Supported          |
+| -----------| ------------------ |
+| 1.0.0 Beta | :white_check_mark: |
+| All Alphas | :x:                |
 
 ### Reporting a Vulnerability
 
