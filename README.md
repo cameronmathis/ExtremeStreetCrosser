@@ -38,14 +38,15 @@ Another way to play the latest version is to clone this repo onto your local mac
 * Timer
 * Points
 * Crosswalks
-* Local Leader board
+* Local Leader Board
 * Settings
 
-### Work-in-Progress:
-
 ### Future Features:
-* Global Leader board
+* Global Leader Board
 * Difficulties
+
+## Known Issues:
+* MacOS Version Will Not Launch
 
 ## Status
 Version: 1.0.0 Beta</br>
