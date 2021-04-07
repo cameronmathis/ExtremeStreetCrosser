@@ -1,4 +1,4 @@
-![logo](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/main/Misc/Images/Logo.png) </br>
+![logo](https://github.com/cameronmathis/ExtremeStreetCrosser/raw/main/Misc/LogoImages/Logo.png) </br>
 
 [![platform](https://img.shields.io/badge/platform-Windows-lightgrey)](https://www.microsoft.com/en-us/windows/get-windows-10)
 [![platform](https://img.shields.io/badge/platform-MacOS-lightgrey)](https://www.apple.com/macos)
