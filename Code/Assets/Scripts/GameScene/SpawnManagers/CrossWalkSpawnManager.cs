@@ -20,7 +20,7 @@ public class CrossWalkSpawnManager : MonoBehaviour
     void spawnCrossWalk()
     {
         // determine if cross walk should spawn
-        int odds = Random.Range(0, 5);
+        int odds = Random.Range(0, 10);
         if (odds != 0)
         {
             return;

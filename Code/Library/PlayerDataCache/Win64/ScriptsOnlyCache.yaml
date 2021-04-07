@@ -20,7 +20,6 @@ ScriptsOnlyBuild:
     - VehicleController
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
-    - GitHub.Unity.BranchesCache
     - GitHub.Unity.EnvironmentCache
     - GitHub.Unity.GitAheadBehindCache
     - GitHub.Unity.GitLocksCache
@@ -1022,5 +1021,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/GameOverScene.unity
   - Assets/Scenes/LeaderboardsScene.unity
   - Assets/Scenes/SettingsScene.unity
-  playerPath: C:/Users/Cameron/Documents/CodeProjects/ExtremeStreetCrosser/LatestBuild/Windows/Extreme
-    Street Crosser.exe
+  playerPath: C:/Users/Cameron/Documents/CodeProjects/ExtremeStreetCrosser/AllBuilds/Windows/1.0.0 
+    Beta/Extreme Street Crosser.exe

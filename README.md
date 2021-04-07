@@ -37,29 +37,28 @@ Another way to play the latest version is to clone this repo onto your local mac
 * Death
 * Timer
 * Points
+* Crosswalks
 * Local Leader board
 * Settings
 
 ### Work-in-Progress:
-* Crosswalks
 
 ### Future Features:
 * Global Leader board
 * Difficulties
 
 ## Status
-Version: 1.5.0 Alpha</br>
-Project is: _in progress_
+Version: 1.0.0 Beta</br>
+Project is: _Testing_
 
 ## Security Policy
 
 ### Supported Versions
 
-| Version          | Supported          |
-| ---------------- | ------------------ |
-| 1.0.0 Beta       | Coming soon        |
-| 1.5.0 Alpha      | :white_check_mark: |
-| All Other Alphas | :x:                |
+| Version    | Supported          |
+| -----------| ------------------ |
+| 1.0.0 Beta | :white_check_mark: |
+| All Alphas | :x:                |
 
 ### Reporting a Vulnerability
 
