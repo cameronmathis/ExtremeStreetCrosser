@@ -2,7 +2,10 @@
 
 public class Slider : MonoBehaviour
 {
-    private float slideSpeed;
+    private float forwardSlideSpeed;
+    private string mode;
+    private float reverseSlideSpeed = 1.2f;
+
     private float lockedVertical = 0.0f;
 
     private bool isOnGround = true;
@@ -17,7 +20,8 @@ public class Slider : MonoBehaviour
     void Start()
     {
         playerControllerScript = GameObject.Find("Player").GetComponent<PlayerController>();
-        slideSpeed = playerControllerScript.movementSpeed;
+        forwardSlideSpeed = playerControllerScript.movementSpeed;
+        mode = PlayerPrefs.GetString("mode");
         lockedVertical = playerControllerScript.lockedVertical;
         isOnGround = playerControllerScript.isOnGround;
         playerGameObject = GameObject.Find("Player");
@@ -28,32 +32,43 @@ public class Slider : MonoBehaviour
     {
         if (!playerControllerScript.gameOver)
         {
-            slideSpeed = playerControllerScript.movementSpeed;
+            forwardSlideSpeed = playerControllerScript.movementSpeed;
             lockedVertical = playerControllerScript.lockedVertical;
             isOnGround = playerControllerScript.isOnGround;
-            move();
+            slide();
             checkBounds();
         }
     }
 
-    // Move the object towards the player to make it appear as if the player is walking
-    void move()
+    // Slide the world objects
+    void slide()
     {
-        if (playerGameObject.transform.position.z >= zTopRange)
-        {
-            float moveVertical = Input.GetAxisRaw("Vertical");
-            Vector3 movement;if (isOnGround)
-            {
-                movement = new Vector3(0.0f, 0.0f, -moveVertical);
+        float moveVertical = Input.GetAxisRaw("Vertical");
 
-                transform.Translate(movement * slideSpeed * Time.deltaTime, Space.World);
-            }
-            // keep the object sliding in the locked direction while the player is in the air
-            else
+        // Slide the object towards the player to make it appear as if the player is walking
+        if (moveVertical != 0.0f)
+        {
+            if (playerGameObject.transform.position.z >= zTopRange)
             {
-                movement = new Vector3(0.0f, 0.0f, -lockedVertical);
-                transform.Translate(movement * slideSpeed * Time.deltaTime, Space.World);
+                Vector3 movement;
+                if (isOnGround)
+                {
+                    movement = new Vector3(0.0f, 0.0f, -moveVertical);
+                    transform.Translate(movement * forwardSlideSpeed * Time.deltaTime, Space.World);
+                }
+                // Keep the object sliding in the locked direction while the player is in the air
+                else
+                {
+                    movement = new Vector3(0.0f, 0.0f, -lockedVertical);
+                    transform.Translate(movement * forwardSlideSpeed * Time.deltaTime, Space.World);
+                }
             }
+        }
+        else if (mode.Equals("hard"))
+        {
+            // Slide the object towards the player when they are not moving
+            Vector3 movement = new Vector3(0.0f, 0.0f, 1.0f);
+            transform.Translate(movement * reverseSlideSpeed * Time.deltaTime, Space.World);
         }
     }
 

@@ -37,13 +37,13 @@ public class SettingsSceneController : MonoBehaviour
     // Set the game mode to easy
     void easyMode()
     {
-
+        PlayerPrefs.SetString("mode", "easy");
     }
 
-    // Set the game maode to hard
+    // Set the game mode to hard
     void hardMode()
     {
-
+        PlayerPrefs.SetString("mode", "hard");
     }
 
     // Clear the local leaderboard
