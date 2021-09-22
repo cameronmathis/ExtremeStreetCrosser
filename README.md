@@ -19,7 +19,7 @@
 * [Developers](#Developers)
 
 ## General Info
-Extreme Street Crosser is a Frogger-like Unity Application that allows children to practice safe street crossing. I collaborated on this project for my Game Design and Development class. I ended up enjoying it so much that I continued work on it even after I graduated. It is built for Windows and MacOS platforms. Feel free to pull the project down and tinker around with it!
+Extreme Street Crosser is a Frogger-like Unity Application that allows children to practice safe street crossing. I collaborated on this project for my Game Design and Development class. I ended up enjoying it so much that I continued to work on it even after I graduated. It is built for Windows and macOS platforms. Feel free to pull the project down and tinker around with it!
 
 ## Setup
 The easiest way to begin playing Extreme Street Crosser is to download and use your operating system's installer application by clicking the link above. If you want to play another version, you can head to the [releases page](https://github.com/cameronmathis/ExtremeStreetCrosser/releases) and choose your desired installer. </br> </br>
